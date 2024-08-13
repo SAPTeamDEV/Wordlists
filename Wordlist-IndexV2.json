@@ -1,0 +1,239 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SAPTeamDEV/Kryptor/master/schema-v2.json",
+  "Wordlists": [
+    {
+      "Id": "000webhost",
+      "Name": "000webhost +700K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/000webhost.txt",
+      "Hash": "HsdW2yP6cdURYz42AS8UYjE/HVNSohd0oosbuvMyQm0=",
+      "Enforced": false,
+      "Words": 719812,
+      "Size": 7708820
+    },
+    {
+      "Id": "200-used-2023",
+      "Name": "200 most used passwords (2023)",
+      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/2023-200_most_used_passwords.txt",
+      "Hash": "RrtKdgAUif/KVorPO/P+G10qNxy3J9nZVgJuRz7iTuA=",
+      "Enforced": true,
+      "Words": 198,
+      "Size": 1778
+    },
+    {
+      "Id": "500-worst",
+      "Name": "500 worst passwords",
+      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/500-worst-passwords.txt",
+      "Hash": "ka4V/2N8kYeqEC3BgJUoQFI6Xu0CQ5LF0DjgMF5lhgg=",
+      "Enforced": true,
+      "Words": 498,
+      "Size": 3491
+    },
+    {
+      "Id": "bt4",
+      "Name": "bt4 +1.5M",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
+      "Hash": "5OAkI8AHuo/sTnqqgLatlEpItSrcaWS/GvlGhsf+YjE=",
+      "Enforced": false,
+      "Words": 1622070,
+      "Size": 15663259
+    },
+    {
+      "Id": "burnett",
+      "Name": "Burnett 1K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/burnett.txt",
+      "Hash": "C9H5+koZ2Z0FIp5mO5Gkui+D/0CWKW1DHK3StvbiaAA=",
+      "Enforced": true,
+      "Words": 1024,
+      "Size": 7417
+    },
+    {
+      "Id": "cirt",
+      "Name": "cirt +1K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/cirt-default-passwords.txt",
+      "Hash": "wVCdozJfC7Gbz6qNeSsCgjilvQkEaheH0z/ER/d1lso=",
+      "Enforced": true,
+      "Words": 930,
+      "Size": 7841
+    },
+    {
+      "Id": "common-root",
+      "Name": "Common Roots +4K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_roots.txt",
+      "Hash": "nDlZrmfExWOC7TcBBycsgtyy+tirnxk06T+SIZp5gXE=",
+      "Enforced": true,
+      "Words": 4573,
+      "Size": 36998
+    },
+    {
+      "Id": "darc0de",
+      "Name": "darc0de +1.4M",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkc0de.txt",
+      "Hash": "f/b9xUf4+mZJ+wkUDAwvWaNYjQ1vuKu2T9DwlxL22rI=",
+      "Enforced": false,
+      "Words": 1450052,
+      "Size": 15069474
+    },
+    {
+      "Id": "darkweb2017-top10k",
+      "Name": "Darkweb 2017 10K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkweb2017-top10000.txt",
+      "Hash": "R58JWw37rgdUYkVEH2SkW3E3NSYXtMryW4HqVR5nya8=",
+      "Enforced": true,
+      "Words": 9870,
+      "Size": 82603
+    },
+    {
+      "Id": "dutch",
+      "Name": "Dutch Passwords +4.2M",
+      "Uri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
+      "Hash": "X4UcJcy3MAmwLIuQxe+DMsRum4e5opq3aUusIwlOqcA=",
+      "Enforced": false,
+      "Words": 4306726,
+      "Size": 43164170
+    },
+    {
+      "Id": "hak5",
+      "Name": "hak5 +2K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/hak5.txt",
+      "Hash": "rKUcMirUK7TGB0cQeoHIOOWZnSyWvwqJiCfDREoSB/k=",
+      "Enforced": true,
+      "Words": 2348,
+      "Size": 24712
+    },
+    {
+      "Id": "honeynet",
+      "Name": "Honey Net +450K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/honeynet.txt",
+      "Hash": "V6kAtnFrSMVL5S4aZFlHae5KXwoafKByH4tD3pRhpz0=",
+      "Enforced": false,
+      "Words": 447285,
+      "Size": 3998638
+    },
+    {
+      "Id": "letterpass",
+      "Name": "Most Popular Letter Passes +40K",
+      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt",
+      "Hash": "FBobodKqvLkGlIHWqqlRWaPAJo4pfs7cQKMLZhPTa2A=",
+      "Enforced": true,
+      "Words": 47603,
+      "Size": 322069
+    },
+    {
+      "Id": "lpmi",
+      "Name": "lpmi 1K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/ipmi_passwords.txt",
+      "Hash": "WZfedqAx6yeYQZphsdbFMNHyZizs9zfQsuMv2SJp6bo=",
+      "Enforced": true,
+      "Words": 986,
+      "Size": 8668
+    },
+    {
+      "Id": "md5decrypt",
+      "Name": "MD5 Decrypt +3.4M",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/md5decryptor.txt",
+      "Hash": "aIcEZKw/8RdN9a2QZsOArAR/xQ+zLONtd9lJdCrkkyE=",
+      "Enforced": false,
+      "Words": 3423849,
+      "Size": 32272880
+    },
+    {
+      "Id": "names",
+      "Name": "Names wordlist +10K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Usernames/Names/names.txt",
+      "Hash": "Y9qxtSlVoLPL5n8gxc09ChBYWkB1Otp0vRpTwvhk+bM=",
+      "Enforced": true,
+      "Words": 9711,
+      "Size": 71039
+    },
+    {
+      "Id": "openwall",
+      "Name": "openwall.net +3.7M",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/openwall.net-all.txt",
+      "Hash": "DVS6q9P9fYy61ucYHDp9NIL1scuBObjcOf/AvuDo9yU=",
+      "Enforced": false,
+      "Words": 3686557,
+      "Size": 40999980
+    },
+    {
+      "Id": "passwords-win",
+      "Name": "Common Passwords Win 800",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_passwords_win.txt",
+      "Hash": "5G703MKe5rOIon5tLv0TE9RyV2p/DaZxBxc21FWMV3w=",
+      "Enforced": true,
+      "Words": 773,
+      "Size": 5765
+    },
+    {
+      "Id": "probable-v2-12k",
+      "Name": "Probable v2 +12K",
+      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/751690ecf50ad191197af8d5cd1db03096bff1ec/Passwords/probable-v2-top12000.txt",
+      "Hash": "6kyQbrsLJnkMVJoEeWJXP3LMwm9CISuD1wFl2cA/tys=",
+      "Enforced": true,
+      "Words": 12549,
+      "Size": 100206
+    },
+    {
+      "Id": "probable-wpa",
+      "Name": "Probable WPA +4K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/probable_wpa.txt",
+      "Hash": "QnQZPq9wV/VAzARlpXNd5d2B6tmds0/nvbFOp9kTZJE=",
+      "Enforced": true,
+      "Words": 4800,
+      "Size": 45275
+    },
+    {
+      "Id": "richelieu",
+      "Name": "richelieu french top 20K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/richelieu-french-top20000.txt",
+      "Hash": "bu18aCr7CwhbGiZkw/S+bfkzx/z75DiQI8tR5KtN4Vo=",
+      "Enforced": true,
+      "Words": 18912,
+      "Size": 154919
+    },
+    {
+      "Id": "rockyou",
+      "Name": "rockyou +14M",
+      "Uri": "https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt",
+      "Hash": "bfp2qg4CMDmU/RBi0KyYPwtp7OVHTYWlu6NjYuGcEHY=",
+      "Enforced": false,
+      "Words": 14341515,
+      "Size": 139921497
+    },
+    {
+      "Id": "service-pass",
+      "Name": "Default Passwords For Services +1K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/default_passwords_for_services.txt",
+      "Hash": "fynrhX5padR6fki4oYTe/f65tA0RcfzFwXZRhsvbZFM=",
+      "Enforced": true,
+      "Words": 1127,
+      "Size": 9321
+    },
+    {
+      "Id": "userpass-combo",
+      "Name": "UserPass Combo +500",
+      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/UserPassCombo-Jay.txt",
+      "Hash": "KAAXi/UzripMqETW/tPqXgKz6c/aGt8TbXo6aJG+7VY=",
+      "Enforced": true,
+      "Words": 682,
+      "Size": 5229
+    },
+    {
+      "Id": "xato-net-10m",
+      "Name": "xato net 10M",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/xato-net-10-million-passwords.txt",
+      "Hash": "yVmJ/s+unJGqn1xzA0TVyr1jNbsJTJxgq6Fr8XQqcv4=",
+      "Enforced": false,
+      "Words": 5186518,
+      "Size": 48312893
+    },
+    {
+      "Id": "xato-net-10m-top100k",
+      "Name": "xato net 10M - top 100K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/xato-net-10-million-passwords-100000.txt",
+      "Hash": "FHKq+iVh314yk67iUq7jymYMErOZooPPgIuwGzm+OIs=",
+      "Enforced": true,
+      "Words": 99922,
+      "Size": 781879
+    }
+  ]
+}

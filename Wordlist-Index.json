@@ -1,0 +1,134 @@
+{
+  "Wordlists": {
+    "probable-v2-12k": {
+      "Name": "Probable v2 +12K",
+      "DownloadUri": "https://raw.githubusercontent.com/danielmiessler/SecLists/751690ecf50ad191197af8d5cd1db03096bff1ec/Passwords/probable-v2-top12000.txt",
+      "QuickCheckPriority": 0
+    },
+    "letterpass": {
+      "Name": "Most Popular Letter Passes +40K",
+      "DownloadUri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt",
+      "QuickCheckPriority": 0
+    },
+    "userpass-combo": {
+      "Name": "UserPass Combo +500",
+      "DownloadUri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/UserPassCombo-Jay.txt",
+      "QuickCheckPriority": 0
+    },
+    "200-used-2023": {
+      "Name": "200 most used passwords (2023)",
+      "DownloadUri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/2023-200_most_used_passwords.txt",
+      "QuickCheckPriority": 0
+    },
+    "500-worst": {
+      "Name": "500 worst passwords",
+      "DownloadUri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/500-worst-passwords.txt",
+      "QuickCheckPriority": 0
+    },
+    "bt4": {
+      "Name": "bt4 +1.5M",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
+      "QuickCheckPriority": 1
+    },
+    "cirt": {
+      "Name": "cirt +1K",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/cirt-default-passwords.txt",
+      "QuickCheckPriority": 0
+    },
+    "darc0de": {
+      "Name": "darc0de +1.4M",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkc0de.txt",
+      "QuickCheckPriority": 1
+    },
+    "darkweb2017-top10k": {
+      "Name": "Darkweb 2017 10K",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkweb2017-top10000.txt",
+      "QuickCheckPriority": 0
+    },
+    "openwall": {
+      "Name": "openwall.net +3.7M",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/openwall.net-all.txt",
+      "QuickCheckPriority": 1
+    },
+    "richelieu": {
+      "Name": "richelieu french top 20K",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/richelieu-french-top20000.txt",
+      "QuickCheckPriority": 0
+    },
+    "xato-net-10m": {
+      "Name": "xato net 10M",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/xato-net-10-million-passwords.txt",
+      "QuickCheckPriority": 1
+    },
+    "xato-net-10m-top100k": {
+      "Name": "xato net 10M - top 100K",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/xato-net-10-million-passwords-100000.txt",
+      "QuickCheckPriority": 0
+    },
+    "names": {
+      "Name": "Names wordlist +10K",
+      "DownloadUri": "https://github.com/danielmiessler/SecLists/raw/master/Usernames/Names/names.txt",
+      "QuickCheckPriority": 0
+    },
+    "rockyou": {
+      "Name": "rockyou +14M",
+      "DownloadUri": "https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt",
+      "QuickCheckPriority": 1
+    },
+    "md5decrypt": {
+      "Name": "MD5 Decrypt +3.4M",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/md5decryptor.txt",
+      "QuickCheckPriority": 1
+    },
+    "probable-wpa": {
+      "Name": "Probable WPA +4K",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/probable_wpa.txt",
+      "QuickCheckPriority": 0
+    },
+    "lpmi": {
+      "Name": "lpmi 1K",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/ipmi_passwords.txt",
+      "QuickCheckPriority": 0
+    },
+    "honeynet": {
+      "Name": "Honey Net +450K",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/honeynet.txt",
+      "QuickCheckPriority": 1
+    },
+    "hak5": {
+      "Name": "hak5 +2K",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/hak5.txt",
+      "QuickCheckPriority": 0
+    },
+    "dutch": {
+      "Name": "Dutch Passwords +4.2M",
+      "DownloadUri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
+      "QuickCheckPriority": 1
+    },
+    "service-pass": {
+      "Name": "Default Passwords For Services +1K",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/default_passwords_for_services.txt",
+      "QuickCheckPriority": 0
+    },
+    "common-root": {
+      "Name": "Common Roots +4K",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_roots.txt",
+      "QuickCheckPriority": 0
+    },
+    "burnett": {
+      "Name": "Burnett 1K",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/burnett.txt",
+      "QuickCheckPriority": 0
+    },
+    "passwords-win": {
+      "Name": "Common Passwords Win 800",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_passwords_win.txt",
+      "QuickCheckPriority": 0
+    },
+    "000webhost": {
+      "Name": "000webhost +700K",
+      "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/000webhost.txt",
+      "QuickCheckPriority": 1
+    }
+  }
+}

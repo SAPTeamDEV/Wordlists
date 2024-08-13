@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["Wordlists"],
+  "properties": {
+    "Wordlists": {
+      "type": "array",
+      "description": "The list of wordlists",
+      "items": {
+        "type": "object",
+        "required": [
+          "Id",
+          "Uri"
+        ],
+        "properties": {
+          "Id": {
+            "type": "string",
+            "description": "Unique identifier of the wordlist"
+          },
+          "Name": {
+            "type": "string",
+            "description": "The user-friendly wordlist name"
+          },
+          "Uri": {
+            "type": "string",
+            "description": "Uri used to download the wordlist"
+          },
+          "Hash": {
+            "type": "string",
+            "description": "SHA256 hash of the wordlist file"
+          },
+          "Enforced": {
+            "type": "boolean",
+            "description": "Determines enforcement status of the wordlist. if it's true, it will block any operations if the word is found in the wordlist, but if set to false, it just shows a warning"
+          },
+          "InstallDirectory": {
+            "type": "string",
+            "description": "The installation directory of the wordlist compiled files"
+          },
+          "Words": {
+            "type": "number",
+            "description": "The number of words included in the wordlist"
+          },
+          "Size": {
+            "type": "number",
+            "description": "The size of the wordlist file"
+          }
+        }
+      }
+    }
+  }
+}
