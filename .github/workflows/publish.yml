@@ -28,7 +28,7 @@ jobs:
             8.0.x
       - name: Install dependencies
         run: |
-          dotnet tool install -g SAPTeam.Kryptor.Tool
+          dotnet tool install -g SAPTeam.Kryptor.Tool --prerelease
         shell: bash
       - name: Update Index
         run: |
