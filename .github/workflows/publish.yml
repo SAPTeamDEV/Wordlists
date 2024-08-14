@@ -3,7 +3,7 @@ name: Wordlist Index Updater
 on:
   workflow_dispatch:
   push:
-    branches: [ "master" ]
+  pull_request:
   schedule:
     - cron: '0 */3 * * *'
 
@@ -19,8 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          submodules: recursive
+          ref: ${{ github.head_ref }}
       - name: Setup .NET Core SDK
         uses: actions/setup-dotnet@v4
         with:
@@ -36,5 +35,6 @@ jobs:
         shell: bash
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          commit_author: SAPTeamDEV <sapteam.mail@gmail.com>
           commit_message: Update wordlist index
       
