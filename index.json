@@ -83,6 +83,15 @@
       "Size": 82603
     },
     {
+      "Id": "dutch",
+      "Name": "Dutch Passwords +4.2M",
+      "Uri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
+      "Hash": "X4UcJcy3MAmwLIuQxe+DMsRum4e5opq3aUusIwlOqcA=",
+      "Enforced": false,
+      "Words": 4306726,
+      "Size": 43164170
+    },
+    {
       "Id": "hak5",
       "Name": "hak5 +2K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/hak5.txt",
