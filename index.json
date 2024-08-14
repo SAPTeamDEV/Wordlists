@@ -7,6 +7,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/000webhost.txt",
       "Hash": "HsdW2yP6cdURYz42AS8UYjE/HVNSohd0oosbuvMyQm0=",
       "Enforced": false,
+      "Lines": 720302,
       "Words": 719812,
       "Size": 7708820
     },
@@ -16,6 +17,7 @@
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/2023-200_most_used_passwords.txt",
       "Hash": "RrtKdgAUif/KVorPO/P+G10qNxy3J9nZVgJuRz7iTuA=",
       "Enforced": true,
+      "Lines": 200,
       "Words": 198,
       "Size": 1778
     },
@@ -25,6 +27,7 @@
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/500-worst-passwords.txt",
       "Hash": "ka4V/2N8kYeqEC3BgJUoQFI6Xu0CQ5LF0DjgMF5lhgg=",
       "Enforced": true,
+      "Lines": 499,
       "Words": 498,
       "Size": 3491
     },
@@ -34,6 +37,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
       "Hash": "5OAkI8AHuo/sTnqqgLatlEpItSrcaWS/GvlGhsf+YjE=",
       "Enforced": false,
+      "Lines": 1652903,
       "Words": 1622070,
       "Size": 15663259
     },
@@ -43,6 +47,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/burnett.txt",
       "Hash": "C9H5+koZ2Z0FIp5mO5Gkui+D/0CWKW1DHK3StvbiaAA=",
       "Enforced": true,
+      "Lines": 1024,
       "Words": 1024,
       "Size": 7417
     },
@@ -52,6 +57,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/cirt-default-passwords.txt",
       "Hash": "wVCdozJfC7Gbz6qNeSsCgjilvQkEaheH0z/ER/d1lso=",
       "Enforced": true,
+      "Lines": 1041,
       "Words": 930,
       "Size": 7841
     },
@@ -61,6 +67,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_roots.txt",
       "Hash": "nDlZrmfExWOC7TcBBycsgtyy+tirnxk06T+SIZp5gXE=",
       "Enforced": true,
+      "Lines": 4724,
       "Words": 4573,
       "Size": 36998
     },
@@ -70,6 +77,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkc0de.txt",
       "Hash": "f/b9xUf4+mZJ+wkUDAwvWaNYjQ1vuKu2T9DwlxL22rI=",
       "Enforced": false,
+      "Lines": 1471056,
       "Words": 1450052,
       "Size": 15069474
     },
@@ -79,6 +87,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkweb2017-top10000.txt",
       "Hash": "R58JWw37rgdUYkVEH2SkW3E3NSYXtMryW4HqVR5nya8=",
       "Enforced": true,
+      "Lines": 9999,
       "Words": 9870,
       "Size": 82603
     },
@@ -88,6 +97,7 @@
       "Uri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
       "Hash": "X4UcJcy3MAmwLIuQxe+DMsRum4e5opq3aUusIwlOqcA=",
       "Enforced": false,
+      "Lines": 4322834,
       "Words": 4306726,
       "Size": 43164170
     },
@@ -97,6 +107,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/hak5.txt",
       "Hash": "rKUcMirUK7TGB0cQeoHIOOWZnSyWvwqJiCfDREoSB/k=",
       "Enforced": true,
+      "Lines": 2351,
       "Words": 2348,
       "Size": 24712
     },
@@ -106,6 +117,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/honeynet.txt",
       "Hash": "V6kAtnFrSMVL5S4aZFlHae5KXwoafKByH4tD3pRhpz0=",
       "Enforced": false,
+      "Lines": 453009,
       "Words": 447285,
       "Size": 3998638
     },
@@ -115,6 +127,7 @@
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt",
       "Hash": "FBobodKqvLkGlIHWqqlRWaPAJo4pfs7cQKMLZhPTa2A=",
       "Enforced": true,
+      "Lines": 47603,
       "Words": 47603,
       "Size": 322069
     },
@@ -124,6 +137,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/ipmi_passwords.txt",
       "Hash": "WZfedqAx6yeYQZphsdbFMNHyZizs9zfQsuMv2SJp6bo=",
       "Enforced": true,
+      "Lines": 999,
       "Words": 986,
       "Size": 8668
     },
@@ -133,6 +147,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/md5decryptor.txt",
       "Hash": "aIcEZKw/8RdN9a2QZsOArAR/xQ+zLONtd9lJdCrkkyE=",
       "Enforced": false,
+      "Lines": 3431316,
       "Words": 3423849,
       "Size": 32272880
     },
@@ -142,6 +157,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Usernames/Names/names.txt",
       "Hash": "Y9qxtSlVoLPL5n8gxc09ChBYWkB1Otp0vRpTwvhk+bM=",
       "Enforced": true,
+      "Lines": 10177,
       "Words": 9711,
       "Size": 71039
     },
@@ -151,6 +167,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/openwall.net-all.txt",
       "Hash": "DVS6q9P9fYy61ucYHDp9NIL1scuBObjcOf/AvuDo9yU=",
       "Enforced": false,
+      "Lines": 3721224,
       "Words": 3686557,
       "Size": 40999980
     },
@@ -160,6 +177,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_passwords_win.txt",
       "Hash": "5G703MKe5rOIon5tLv0TE9RyV2p/DaZxBxc21FWMV3w=",
       "Enforced": true,
+      "Lines": 815,
       "Words": 773,
       "Size": 5765
     },
@@ -169,6 +187,7 @@
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/751690ecf50ad191197af8d5cd1db03096bff1ec/Passwords/probable-v2-top12000.txt",
       "Hash": "6kyQbrsLJnkMVJoEeWJXP3LMwm9CISuD1wFl2cA/tys=",
       "Enforced": true,
+      "Lines": 12645,
       "Words": 12549,
       "Size": 100206
     },
@@ -178,6 +197,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/probable_wpa.txt",
       "Hash": "QnQZPq9wV/VAzARlpXNd5d2B6tmds0/nvbFOp9kTZJE=",
       "Enforced": true,
+      "Lines": 4800,
       "Words": 4800,
       "Size": 45275
     },
@@ -187,6 +207,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/richelieu-french-top20000.txt",
       "Hash": "bu18aCr7CwhbGiZkw/S+bfkzx/z75DiQI8tR5KtN4Vo=",
       "Enforced": true,
+      "Lines": 19994,
       "Words": 18912,
       "Size": 154919
     },
@@ -196,6 +217,7 @@
       "Uri": "https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt",
       "Hash": "bfp2qg4CMDmU/RBi0KyYPwtp7OVHTYWlu6NjYuGcEHY=",
       "Enforced": false,
+      "Lines": 14344391,
       "Words": 14341515,
       "Size": 139921497
     },
@@ -205,6 +227,7 @@
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/default_passwords_for_services.txt",
       "Hash": "fynrhX5padR6fki4oYTe/f65tA0RcfzFwXZRhsvbZFM=",
       "Enforced": true,
+      "Lines": 1243,
       "Words": 1127,
       "Size": 9321
     },
@@ -214,6 +237,7 @@
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/UserPassCombo-Jay.txt",
       "Hash": "KAAXi/UzripMqETW/tPqXgKz6c/aGt8TbXo6aJG+7VY=",
       "Enforced": true,
+      "Lines": 727,
       "Words": 682,
       "Size": 5229
     },
@@ -223,6 +247,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/xato-net-10-million-passwords.txt",
       "Hash": "yVmJ/s+unJGqn1xzA0TVyr1jNbsJTJxgq6Fr8XQqcv4=",
       "Enforced": false,
+      "Lines": 5189454,
       "Words": 5186518,
       "Size": 48312893
     },
@@ -232,6 +257,7 @@
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/xato-net-10-million-passwords-100000.txt",
       "Hash": "FHKq+iVh314yk67iUq7jymYMErOZooPPgIuwGzm+OIs=",
       "Enforced": true,
+      "Lines": 100000,
       "Words": 99922,
       "Size": 781879
     }
