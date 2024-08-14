@@ -37,9 +37,13 @@
             "type": "string",
             "description": "The installation directory of the wordlist compiled files"
           },
+          "Lines": {
+            "type": "number",
+            "description": "The number of lines in the wordlist"
+          },
           "Words": {
             "type": "number",
-            "description": "The number of words included in the wordlist"
+            "description": "The number of words detected by the wordlist fragment compiler"
           },
           "Size": {
             "type": "number",
