@@ -1,4 +1,4 @@
-## Index
+# Wordlist Index
 
 | Identifier | Name | Words | Size | Download |
 | :--------: | :--: | :---: | :--: | :------: |
