@@ -32,7 +32,7 @@ jobs:
         shell: bash
       - name: Update Index
         run: |
-          kryptor wordlist convert --no-color -q Wordlist-Index.json Wordlist-IndexV2.json
+          kryptor wordlist convert --no-color -q wordlists.json index.json
         shell: bash
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
