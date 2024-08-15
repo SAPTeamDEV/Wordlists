@@ -22,9 +22,6 @@ jobs:
           ref: ${{ github.head_ref }}
       - name: Setup .NET Core SDK
         uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: | 
-            8.0.x
       - name: Install dependencies
         run: |
           dotnet tool install -g SAPTeam.Kryptor.Tool --prerelease
