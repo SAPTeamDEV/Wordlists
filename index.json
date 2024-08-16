@@ -46,6 +46,17 @@
       "Size": 3491
     },
     {
+      "Id": "aslm",
+      "Name": "ASLM +41M",
+      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
+      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 52034,
+      "Words": 51921,
+      "Size": 133386515
+    },
+    {
       "Id": "bt4",
       "Name": "bt4 +1.5M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
@@ -178,6 +189,39 @@
       "Size": 3998638
     },
     {
+      "Id": "ignis-10m",
+      "Name": "Ignis 10M",
+      "Uri": "https://download.weakpass.com/wordlists/1935/ignis-10M.txt.7z",
+      "Hash": "gEtmnRa1sMqY+/DPAEfhJTvQpOinYqrwvnUVIx/DAJg=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 60703,
+      "Words": 59207,
+      "Size": 33317586
+    },
+    {
+      "Id": "ignis-1m",
+      "Name": "Ignis 1M",
+      "Uri": "https://download.weakpass.com/wordlists/1937/ignis-1M.txt.7z",
+      "Hash": "YdSF+rZ/Qk8KYa3zDmBT/W3k3IUdtGw/4zAGkQnfPE8=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 60703,
+      "Words": 59207,
+      "Size": 3546270
+    },
+    {
+      "Id": "kaonashi",
+      "Name": "Kaonashi +14M",
+      "Uri": "https://download.weakpass.com/wordlists/1938/kaonashi14M.txt.7z",
+      "Hash": "ReiEZ6WNdFOJuvDRGO0x46WsIRNAqV5b74kbGM+Gx08=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 60471,
+      "Words": 59446,
+      "Size": 50028400
+    },
+    {
       "Id": "letterpass",
       "Name": "Most Popular Letter Passes +40K",
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt",
@@ -275,6 +319,17 @@
       "Lines": 4800,
       "Words": 4800,
       "Size": 45275
+    },
+    {
+      "Id": "psbdmp",
+      "Name": "Psbdmp and pastebin crawled passwords 24M",
+      "Uri": "https://download.weakpass.com/wordlists/1925/psbdmp.txt.7z",
+      "Hash": "rJ6R7FpF+Zj1RVjAzuQFMzXv5VLEIWjwKUS7QFTDWkk=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 44337,
+      "Words": 44337,
+      "Size": 75598446
     },
     {
       "Id": "real-pass-login",
