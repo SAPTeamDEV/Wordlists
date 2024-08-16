@@ -402,7 +402,7 @@
       "Name": "Top 304K Probable passwords v2",
       "Uri": "https://download.weakpass.com/wordlists/1859/Top304Thousand-probable-v2.txt.gz",
       "Hash": "f1uOTNCHloQSPe3mAEOrPJL8iWKmvyUQ5mXiaeUWE7c=",
-      "Enforced": true,
+      "Enforced": false,
       "Compressed": true,
       "Lines": 303872,
       "Words": 300821,
