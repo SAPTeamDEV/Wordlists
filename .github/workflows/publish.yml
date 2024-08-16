@@ -3,9 +3,10 @@ name: Wordlist Index Updater
 on:
   workflow_dispatch:
   push:
+    paths: 'wordlists.json'
   pull_request:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   publish:
