@@ -159,7 +159,7 @@
     "top304k-probable-v2": {
       "Name": "Top 304K Probable passwords v2",
       "DownloadUri": "https://download.weakpass.com/wordlists/1859/Top304Thousand-probable-v2.txt.gz",
-      "QuickCheckPriority": 0,
+      "QuickCheckPriority": 1,
       "Compressed": true
     },
     "hk-hlm-founds": {
