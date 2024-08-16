@@ -153,7 +153,8 @@
     "000webhost": {
       "Name": "000webhost +700K",
       "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/000webhost.txt",
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": false
     },
     "top304k-probable-v2": {
       "Name": "Top 304K Probable passwords v2",

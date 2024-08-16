@@ -255,6 +255,17 @@
       "Size": 9321
     },
     {
+      "Id": "Top304k-probable-v2",
+      "Name": "Top 304K Probable passwords v2",
+      "Uri": "https://download.weakpass.com/wordlists/1859/Top304Thousand-probable-v2.txt.gz",
+      "Hash": "f1uOTNCHloQSPe3mAEOrPJL8iWKmvyUQ5mXiaeUWE7c=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 303872,
+      "Words": 300821,
+      "Size": 1228952
+    },
+    {
       "Id": "userpass-combo",
       "Name": "UserPass Combo +500",
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/UserPassCombo-Jay.txt",
