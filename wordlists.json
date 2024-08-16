@@ -180,12 +180,6 @@
       "QuickCheckPriority": 1,
       "Compressed": true
     },
-    "BestByChesteRock": {
-      "Name": "Best By Cheste Rock #1 +2.5M+",
-      "DownloadUri": "https://download.weakpass.com/wordlists/1696/BestByChesteRock#1.txt.gz",
-      "QuickCheckPriority": 1,
-      "Compressed": true
-    },
     "most-security": {
       "Name": "Most Security +4.2M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1214/most_security.gz",
