@@ -129,6 +129,12 @@
       "Name": "000webhost +700K",
       "DownloadUri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/000webhost.txt",
       "QuickCheckPriority": 1
+    },
+    "Top304k-probable-v2": {
+      "Name": "Top 304K Probable passwords v2",
+      "DownloadUri": "https://download.weakpass.com/wordlists/1859/Top304Thousand-probable-v2.txt.gz",
+      "Compressed": true,
+      "QuickCheckPriority": 1
     }
   }
 }
