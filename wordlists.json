@@ -159,98 +159,98 @@
     "top304k-probable-v2": {
       "Name": "Top 304K Probable passwords v2",
       "DownloadUri": "https://download.weakpass.com/wordlists/1859/Top304Thousand-probable-v2.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 0
+      "QuickCheckPriority": 0,
+      "Compressed": true
     },
     "hk-hlm-founds": {
       "Name": "hk hlm founds +38M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1256/hk_hlm_founds.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "ignis-1m": {
       "Name": "Ignis 1M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1937/ignis-1M.txt.7z",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "Top1pt6Million-probable-v2": {
       "Name": "Top 6M Probable Passwords v2",
       "DownloadUri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "BestByChesteRock": {
       "Name": "Best By Cheste Rock #1 +2.5M+",
       "DownloadUri": "https://download.weakpass.com/wordlists/1696/BestByChesteRock#1.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "most-security": {
       "Name": "Most Security +4.2M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1214/most_security.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "dazzlepod": {
       "Name": "Dazzlepod +2M",
       "DownloadUri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "gmail-alleged": {
       "Name": "Gmail Alleged 5M",
       "DownloadUri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "sqlmap": {
       "Name": "SQL Map 1M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1136/sqlmap.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "3m-combo-list": {
       "Name": "3M Combo List",
       "DownloadUri": "https://download.weakpass.com/wordlists/1221/3,000,000%20%20combo%20list.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "xsplit": {
       "Name": "X Split 1M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1189/xsplit.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "aslm": {
       "Name": "ASLM +41M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "kaonashi": {
       "Name": "Kaonashi +14M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1938/kaonashi14M.txt.7z",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "ignis-10m": {
       "Name": "Ignis 10M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1935/ignis-10M.txt.7z",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "psbdmp": {
       "Name": "Psbdmp and pastebin crawled passwords 24M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1925/psbdmp.txt.7z",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     },
     "real-pass-login": {
       "Name": "Real Login Passwords +12M",
       "DownloadUri": "https://download.weakpass.com/wordlists/1711/real-pass_login.txt.gz",
-      "Compressed": true,
-      "QuickCheckPriority": 1
+      "QuickCheckPriority": 1,
+      "Compressed": true
     }
   }
 }

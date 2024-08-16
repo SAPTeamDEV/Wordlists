@@ -24,6 +24,17 @@
       "Size": 1778
     },
     {
+      "Id": "3m-combo-list",
+      "Name": "3M Combo List",
+      "Uri": "https://download.weakpass.com/wordlists/1221/3,000,000%20%20combo%20list.txt.gz",
+      "Hash": "ycdns4fwAOiMl4CQ3txtSoOuAimNBx4zomf5YgKygmQ=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 2173674,
+      "Words": 2172971,
+      "Size": 11300160
+    },
+    {
       "Id": "500-worst",
       "Name": "500 worst passwords",
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/500-worst-passwords.txt",
@@ -101,6 +112,17 @@
       "Size": 82603
     },
     {
+      "Id": "dazzlepod",
+      "Name": "Dazzlepod +2M",
+      "Uri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
+      "Hash": "LTjR++Y1gSLJGcfgjsQOtGeMh62Myzta78HYrHXnbL8=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 2151235,
+      "Words": 2146506,
+      "Size": 8459605
+    },
+    {
       "Id": "dutch",
       "Name": "Dutch Passwords +4.2M",
       "Uri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
@@ -112,6 +134,17 @@
       "Size": 43164170
     },
     {
+      "Id": "gmail-alleged",
+      "Name": "Gmail Alleged 5M",
+      "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
+      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 4929090,
+      "Words": 4911674,
+      "Size": 26512076
+    },
+    {
       "Id": "hak5",
       "Name": "hak5 +2K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/hak5.txt",
@@ -121,6 +154,17 @@
       "Lines": 2351,
       "Words": 2348,
       "Size": 24712
+    },
+    {
+      "Id": "hk-hlm-founds",
+      "Name": "hk hlm founds +38M",
+      "Uri": "https://download.weakpass.com/wordlists/1256/hk_hlm_founds.txt.gz",
+      "Hash": "bh0a9JtFtD4tjWKa1w2lFj2jCn3zqDoUY9+z7mbTJwA=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 38647798,
+      "Words": 38617071,
+      "Size": 265622346
     },
     {
       "Id": "honeynet",
@@ -165,6 +209,17 @@
       "Lines": 3431316,
       "Words": 3423849,
       "Size": 32272880
+    },
+    {
+      "Id": "most-security",
+      "Name": "Most Security +4.2M",
+      "Uri": "https://download.weakpass.com/wordlists/1214/most_security.gz",
+      "Hash": "Jot5/2g4qBGoNHMj5t9MfvpSkN292Tx544nmAbt4qSo=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 4238398,
+      "Words": 4232519,
+      "Size": 24641026
     },
     {
       "Id": "names",
@@ -222,6 +277,17 @@
       "Size": 45275
     },
     {
+      "Id": "real-pass-login",
+      "Name": "Real Login Passwords +12M",
+      "Uri": "https://download.weakpass.com/wordlists/1711/real-pass_login.txt.gz",
+      "Hash": "qcbHwVfPYOhQySkW1UiCVUdVNCC6rWDgco3+jNN6TB4=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 12705340,
+      "Words": 12689778,
+      "Size": 50610267
+    },
+    {
       "Id": "richelieu",
       "Name": "richelieu french top 20K",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/richelieu-french-top20000.txt",
@@ -255,11 +321,33 @@
       "Size": 9321
     },
     {
-      "Id": "Top304k-probable-v2",
+      "Id": "sqlmap",
+      "Name": "SQL Map 1M",
+      "Uri": "https://download.weakpass.com/wordlists/1136/sqlmap.txt.gz",
+      "Hash": "n719n2fq9Ff01YWvBAWakSeAnaTx3m+37nP5mf6lqYE=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 1202867,
+      "Words": 1196362,
+      "Size": 4865152
+    },
+    {
+      "Id": "top1pt6million-probable-v2",
+      "Name": "Top 6M Probable Passwords v2",
+      "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
+      "Hash": "x/k+2biLYYiuGivua48jDfhecHo38x71XLn7nVQME5g=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 1667462,
+      "Words": 1652945,
+      "Size": 6545418
+    },
+    {
+      "Id": "top304k-probable-v2",
       "Name": "Top 304K Probable passwords v2",
       "Uri": "https://download.weakpass.com/wordlists/1859/Top304Thousand-probable-v2.txt.gz",
       "Hash": "f1uOTNCHloQSPe3mAEOrPJL8iWKmvyUQ5mXiaeUWE7c=",
-      "Enforced": false,
+      "Enforced": true,
       "Compressed": true,
       "Lines": 303872,
       "Words": 300821,
@@ -297,6 +385,17 @@
       "Lines": 100000,
       "Words": 99922,
       "Size": 781879
+    },
+    {
+      "Id": "xsplit",
+      "Name": "X Split 1M",
+      "Uri": "https://download.weakpass.com/wordlists/1189/xsplit.txt.gz",
+      "Hash": "K/U0thQXVt3xnKiOBOqHSsK6EqkvmtZ6Y+sLmCgLFKI=",
+      "Enforced": false,
+      "Compressed": true,
+      "Lines": 939014,
+      "Words": 939010,
+      "Size": 3139282
     }
   ]
 }
