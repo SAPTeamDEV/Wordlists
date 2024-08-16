@@ -24,15 +24,11 @@ jobs:
         uses: actions/setup-dotnet@v4
       - name: Install dependencies
         run: |
-          mkdir bin
-          cd bin
-          wget https://github.com/SAPTeamDEV/Wordlists/releases/download/dummy/kryptor.tar.gz
-          tar xf *.tar.gz
-          chmod +x Kryptor
+          dotnet tool install -g SAPTeam.Kryptor.Tool --prerelease
         shell: bash
       - name: Update Index
         run: |
-          bin/Kryptor wordlist index -v wordlists.json
+          kryptor wordlist index -v wordlists.json
         shell: bash
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
