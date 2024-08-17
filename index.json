@@ -8,6 +8,7 @@
       "Hash": "HsdW2yP6cdURYz42AS8UYjE/HVNSohd0oosbuvMyQm0=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 720302,
       "Words": 719355,
       "Size": 7708820
@@ -19,8 +20,9 @@
       "Hash": "RrtKdgAUif/KVorPO/P+G10qNxy3J9nZVgJuRz7iTuA=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 200,
-      "Words": 196,
+      "Words": 198,
       "Size": 1778
     },
     {
@@ -30,6 +32,7 @@
       "Hash": "ycdns4fwAOiMl4CQ3txtSoOuAimNBx4zomf5YgKygmQ=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 2173674,
       "Words": 2172645,
       "Size": 11300160
@@ -41,6 +44,7 @@
       "Hash": "ka4V/2N8kYeqEC3BgJUoQFI6Xu0CQ5LF0DjgMF5lhgg=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 499,
       "Words": 498,
       "Size": 3491
@@ -52,8 +56,9 @@
       "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 41591035,
-      "Words": 41529293,
+      "Words": 41545756,
       "Size": 133386515
     },
     {
@@ -63,8 +68,9 @@
       "Hash": "5OAkI8AHuo/sTnqqgLatlEpItSrcaWS/GvlGhsf+YjE=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 1652903,
-      "Words": 1622044,
+      "Words": 1622067,
       "Size": 15663259
     },
     {
@@ -74,6 +80,7 @@
       "Hash": "C9H5+koZ2Z0FIp5mO5Gkui+D/0CWKW1DHK3StvbiaAA=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 1024,
       "Words": 1024,
       "Size": 7417
@@ -85,6 +92,7 @@
       "Hash": "wVCdozJfC7Gbz6qNeSsCgjilvQkEaheH0z/ER/d1lso=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 1041,
       "Words": 930,
       "Size": 7841
@@ -96,6 +104,7 @@
       "Hash": "nDlZrmfExWOC7TcBBycsgtyy+tirnxk06T+SIZp5gXE=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 4724,
       "Words": 4572,
       "Size": 36998
@@ -107,8 +116,9 @@
       "Hash": "f/b9xUf4+mZJ+wkUDAwvWaNYjQ1vuKu2T9DwlxL22rI=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 1471056,
-      "Words": 1449632,
+      "Words": 1450038,
       "Size": 15069474
     },
     {
@@ -118,6 +128,7 @@
       "Hash": "R58JWw37rgdUYkVEH2SkW3E3NSYXtMryW4HqVR5nya8=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 9999,
       "Words": 9825,
       "Size": 82603
@@ -129,8 +140,9 @@
       "Hash": "LTjR++Y1gSLJGcfgjsQOtGeMh62Myzta78HYrHXnbL8=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 2151235,
-      "Words": 2146112,
+      "Words": 2146506,
       "Size": 8459605
     },
     {
@@ -140,8 +152,9 @@
       "Hash": "X4UcJcy3MAmwLIuQxe+DMsRum4e5opq3aUusIwlOqcA=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 4322834,
-      "Words": 3975979,
+      "Words": 4306351,
       "Size": 43164170
     },
     {
@@ -151,8 +164,9 @@
       "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 4929090,
-      "Words": 3121577,
+      "Words": 4911487,
       "Size": 26512076
     },
     {
@@ -162,6 +176,7 @@
       "Hash": "rKUcMirUK7TGB0cQeoHIOOWZnSyWvwqJiCfDREoSB/k=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 2351,
       "Words": 2348,
       "Size": 24712
@@ -173,8 +188,9 @@
       "Hash": "bh0a9JtFtD4tjWKa1w2lFj2jCn3zqDoUY9+z7mbTJwA=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 38647798,
-      "Words": 33650963,
+      "Words": 38605492,
       "Size": 265622346
     },
     {
@@ -184,8 +200,9 @@
       "Hash": "V6kAtnFrSMVL5S4aZFlHae5KXwoafKByH4tD3pRhpz0=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 453009,
-      "Words": 223216,
+      "Words": 447271,
       "Size": 3998638
     },
     {
@@ -195,8 +212,9 @@
       "Hash": "gEtmnRa1sMqY+/DPAEfhJTvQpOinYqrwvnUVIx/DAJg=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 10000000,
-      "Words": 9959447,
+      "Words": 9959486,
       "Size": 33317586
     },
     {
@@ -206,8 +224,9 @@
       "Hash": "YdSF+rZ/Qk8KYa3zDmBT/W3k3IUdtGw/4zAGkQnfPE8=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 1000000,
-      "Words": 989836,
+      "Words": 989839,
       "Size": 3546270
     },
     {
@@ -217,8 +236,9 @@
       "Hash": "ReiEZ6WNdFOJuvDRGO0x46WsIRNAqV5b74kbGM+Gx08=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 14344391,
-      "Words": 14268680,
+      "Words": 14269484,
       "Size": 50028400
     },
     {
@@ -228,6 +248,7 @@
       "Hash": "FBobodKqvLkGlIHWqqlRWaPAJo4pfs7cQKMLZhPTa2A=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 47603,
       "Words": 47603,
       "Size": 322069
@@ -239,6 +260,7 @@
       "Hash": "WZfedqAx6yeYQZphsdbFMNHyZizs9zfQsuMv2SJp6bo=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 999,
       "Words": 986,
       "Size": 8668
@@ -250,8 +272,9 @@
       "Hash": "aIcEZKw/8RdN9a2QZsOArAR/xQ+zLONtd9lJdCrkkyE=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 3431316,
-      "Words": 3398533,
+      "Words": 3398689,
       "Size": 32272880
     },
     {
@@ -261,8 +284,9 @@
       "Hash": "Jot5/2g4qBGoNHMj5t9MfvpSkN292Tx544nmAbt4qSo=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 4238398,
-      "Words": 4221368,
+      "Words": 4223181,
       "Size": 24641026
     },
     {
@@ -272,8 +296,9 @@
       "Hash": "Y9qxtSlVoLPL5n8gxc09ChBYWkB1Otp0vRpTwvhk+bM=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 10177,
-      "Words": 9709,
+      "Words": 9711,
       "Size": 71039
     },
     {
@@ -283,8 +308,9 @@
       "Hash": "DVS6q9P9fYy61ucYHDp9NIL1scuBObjcOf/AvuDo9yU=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 3721224,
-      "Words": 3642113,
+      "Words": 3686557,
       "Size": 40999980
     },
     {
@@ -294,6 +320,7 @@
       "Hash": "5G703MKe5rOIon5tLv0TE9RyV2p/DaZxBxc21FWMV3w=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 815,
       "Words": 773,
       "Size": 5765
@@ -305,6 +332,7 @@
       "Hash": "6kyQbrsLJnkMVJoEeWJXP3LMwm9CISuD1wFl2cA/tys=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 12645,
       "Words": 12549,
       "Size": 100206
@@ -316,6 +344,7 @@
       "Hash": "QnQZPq9wV/VAzARlpXNd5d2B6tmds0/nvbFOp9kTZJE=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 4800,
       "Words": 4800,
       "Size": 45275
@@ -327,6 +356,7 @@
       "Hash": "rJ6R7FpF+Zj1RVjAzuQFMzXv5VLEIWjwKUS7QFTDWkk=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 24068920,
       "Words": 24068920,
       "Size": 75598446
@@ -338,6 +368,7 @@
       "Hash": "qcbHwVfPYOhQySkW1UiCVUdVNCC6rWDgco3+jNN6TB4=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 12705340,
       "Words": 12689727,
       "Size": 50610267
@@ -349,6 +380,7 @@
       "Hash": "bu18aCr7CwhbGiZkw/S+bfkzx/z75DiQI8tR5KtN4Vo=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 19994,
       "Words": 18907,
       "Size": 154919
@@ -360,8 +392,9 @@
       "Hash": "bfp2qg4CMDmU/RBi0KyYPwtp7OVHTYWlu6NjYuGcEHY=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 14344391,
-      "Words": 14326377,
+      "Words": 14326984,
       "Size": 139921497
     },
     {
@@ -371,8 +404,9 @@
       "Hash": "fynrhX5padR6fki4oYTe/f65tA0RcfzFwXZRhsvbZFM=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 1243,
-      "Words": 1120,
+      "Words": 1126,
       "Size": 9321
     },
     {
@@ -382,8 +416,9 @@
       "Hash": "n719n2fq9Ff01YWvBAWakSeAnaTx3m+37nP5mf6lqYE=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 1202867,
-      "Words": 1196336,
+      "Words": 1196358,
       "Size": 4865152
     },
     {
@@ -393,8 +428,9 @@
       "Hash": "x/k+2biLYYiuGivua48jDfhecHo38x71XLn7nVQME5g=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 1667462,
-      "Words": 1652711,
+      "Words": 1652935,
       "Size": 6545418
     },
     {
@@ -404,8 +440,9 @@
       "Hash": "f1uOTNCHloQSPe3mAEOrPJL8iWKmvyUQ5mXiaeUWE7c=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 303872,
-      "Words": 300819,
+      "Words": 300821,
       "Size": 1228952
     },
     {
@@ -415,6 +452,7 @@
       "Hash": "KAAXi/UzripMqETW/tPqXgKz6c/aGt8TbXo6aJG+7VY=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 727,
       "Words": 682,
       "Size": 5229
@@ -426,8 +464,9 @@
       "Hash": "yVmJ/s+unJGqn1xzA0TVyr1jNbsJTJxgq6Fr8XQqcv4=",
       "Enforced": false,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 5189454,
-      "Words": 5186451,
+      "Words": 5186481,
       "Size": 48312893
     },
     {
@@ -437,6 +476,7 @@
       "Hash": "FHKq+iVh314yk67iUq7jymYMErOZooPPgIuwGzm+OIs=",
       "Enforced": true,
       "Compressed": false,
+      "Optimized": false,
       "Lines": 100000,
       "Words": 99922,
       "Size": 781879
@@ -448,6 +488,7 @@
       "Hash": "K/U0thQXVt3xnKiOBOqHSsK6EqkvmtZ6Y+sLmCgLFKI=",
       "Enforced": false,
       "Compressed": true,
+      "Optimized": false,
       "Lines": 939014,
       "Words": 939010,
       "Size": 3139282
