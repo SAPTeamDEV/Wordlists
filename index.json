@@ -9,7 +9,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 720302,
-      "Words": 719812,
+      "Words": 719355,
       "Size": 7708820
     },
     {
@@ -20,7 +20,7 @@
       "Enforced": true,
       "Compressed": false,
       "Lines": 200,
-      "Words": 198,
+      "Words": 196,
       "Size": 1778
     },
     {
@@ -31,7 +31,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 2173674,
-      "Words": 2172971,
+      "Words": 2172645,
       "Size": 11300160
     },
     {
@@ -53,7 +53,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 41591035,
-      "Words": 41545757,
+      "Words": 41529293,
       "Size": 133386515
     },
     {
@@ -64,7 +64,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 1652903,
-      "Words": 1622070,
+      "Words": 1622044,
       "Size": 15663259
     },
     {
@@ -97,7 +97,7 @@
       "Enforced": true,
       "Compressed": false,
       "Lines": 4724,
-      "Words": 4573,
+      "Words": 4572,
       "Size": 36998
     },
     {
@@ -108,7 +108,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 1471056,
-      "Words": 1450052,
+      "Words": 1449632,
       "Size": 15069474
     },
     {
@@ -119,7 +119,7 @@
       "Enforced": true,
       "Compressed": false,
       "Lines": 9999,
-      "Words": 9870,
+      "Words": 9825,
       "Size": 82603
     },
     {
@@ -130,7 +130,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 2151235,
-      "Words": 2146506,
+      "Words": 2146112,
       "Size": 8459605
     },
     {
@@ -141,7 +141,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 4322834,
-      "Words": 4306726,
+      "Words": 3975979,
       "Size": 43164170
     },
     {
@@ -152,7 +152,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 4929090,
-      "Words": 4911674,
+      "Words": 3121577,
       "Size": 26512076
     },
     {
@@ -174,7 +174,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 38647798,
-      "Words": 38617071,
+      "Words": 33650963,
       "Size": 265622346
     },
     {
@@ -185,7 +185,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 453009,
-      "Words": 447285,
+      "Words": 223216,
       "Size": 3998638
     },
     {
@@ -196,7 +196,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 10000000,
-      "Words": 9959944,
+      "Words": 9959447,
       "Size": 33317586
     },
     {
@@ -207,7 +207,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 1000000,
-      "Words": 989897,
+      "Words": 989836,
       "Size": 3546270
     },
     {
@@ -218,7 +218,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 14344391,
-      "Words": 14304298,
+      "Words": 14268680,
       "Size": 50028400
     },
     {
@@ -251,7 +251,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 3431316,
-      "Words": 3423849,
+      "Words": 3398533,
       "Size": 32272880
     },
     {
@@ -262,7 +262,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 4238398,
-      "Words": 4232519,
+      "Words": 4221368,
       "Size": 24641026
     },
     {
@@ -273,7 +273,7 @@
       "Enforced": true,
       "Compressed": false,
       "Lines": 10177,
-      "Words": 9711,
+      "Words": 9709,
       "Size": 71039
     },
     {
@@ -284,7 +284,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 3721224,
-      "Words": 3686557,
+      "Words": 3642113,
       "Size": 40999980
     },
     {
@@ -339,7 +339,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 12705340,
-      "Words": 12689778,
+      "Words": 12689727,
       "Size": 50610267
     },
     {
@@ -350,7 +350,7 @@
       "Enforced": true,
       "Compressed": false,
       "Lines": 19994,
-      "Words": 18912,
+      "Words": 18907,
       "Size": 154919
     },
     {
@@ -361,7 +361,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 14344391,
-      "Words": 14341515,
+      "Words": 14326377,
       "Size": 139921497
     },
     {
@@ -372,7 +372,7 @@
       "Enforced": true,
       "Compressed": false,
       "Lines": 1243,
-      "Words": 1127,
+      "Words": 1120,
       "Size": 9321
     },
     {
@@ -383,7 +383,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 1202867,
-      "Words": 1196362,
+      "Words": 1196336,
       "Size": 4865152
     },
     {
@@ -394,7 +394,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 1667462,
-      "Words": 1652945,
+      "Words": 1652711,
       "Size": 6545418
     },
     {
@@ -405,7 +405,7 @@
       "Enforced": false,
       "Compressed": true,
       "Lines": 303872,
-      "Words": 300821,
+      "Words": 300819,
       "Size": 1228952
     },
     {
@@ -427,7 +427,7 @@
       "Enforced": false,
       "Compressed": false,
       "Lines": 5189454,
-      "Words": 5186518,
+      "Words": 5186451,
       "Size": 48312893
     },
     {
