@@ -37,6 +37,10 @@
             "type": "boolean",
             "description": "Determines compression status of the wordlist file."
           },
+          "Optimized": {
+            "type": "boolean",
+            "description": "Determines the optimization status of the wordlist file. if it's true, it means that the wordlist is optimized by fragment compiler and all duplicated entries are removed, otherwise it means that the wordlist is not optimized and may be have some duplicated entries. Note: this property only shows that the words property is calculated with optimization or not, and does not correspond to the wordlist file itself."
+          },
           "InstallDirectory": {
             "type": "string",
             "description": "The installation directory of the wordlist compiled files"
