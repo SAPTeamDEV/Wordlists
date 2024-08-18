@@ -269,6 +269,42 @@
       "DownloadUri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
       "QuickCheckPriority": 1,
       "Compressed": true
+    },
+    "mailpassname": {
+      "Name": "Mail Passwords +38M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/1708/mailpassname.txt.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
+    },
+    "net-zwerg": {
+      "Name": "NetZwerg 8.5M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/510/NetZwerg.txt.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
+    },
+    "wordlist-final": {
+      "Name": "Wordlist collection +9.5M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/600/wordlist-final.txt.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
+    },
+    "upass": {
+      "Name": "Ultimate Passwords list +2.7M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/338/UltimatePasswordsList.txt.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
+    },
+    "mcp": {
+      "Name": "1M Most Common Passwords",
+      "DownloadUri": "https://download.weakpass.com/wordlists/308/1,4_Mio_most_common_passwords.txt.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
+    },
+    "tbm": {
+      "Name": "Tiny But Mighty 1.7M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/696/TinyButMighty.txt.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
     }
   }
 }
