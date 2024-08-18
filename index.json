@@ -158,6 +158,18 @@
       "Size": 43164170
     },
     {
+      "Id": "fling-top",
+      "Name": "Fling Top +16M",
+      "Uri": "https://download.weakpass.com/wordlists/1903/fling_top.txt.gz",
+      "Hash": "2RQAyfKUNz7/DKk6CAOboSbtSb8m+61Dk6A3Qf0ZAoc=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 16245214,
+      "Words": 16233014,
+      "Size": 64886435
+    },
+    {
       "Id": "gmail-alleged",
       "Name": "Gmail Alleged 5M",
       "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
@@ -276,6 +288,30 @@
       "Lines": 3431316,
       "Words": 3398533,
       "Size": 32272880
+    },
+    {
+      "Id": "mega-slovar",
+      "Name": "Mega Slovar +30M",
+      "Uri": "https://download.weakpass.com/wordlists/387/mega_slovar.txt.gz",
+      "Hash": "RncjbazTHOHYBDJaE0KKgm0FGoX2xhHmEARpQ6jR4Fo=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 31630764,
+      "Words": 24277447,
+      "Size": 96523917
+    },
+    {
+      "Id": "member-login",
+      "Name": "Parsed logins from AM (Ashley Madison) dump +36M",
+      "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
+      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 36400530,
+      "Words": 35182132,
+      "Size": 125263195
     },
     {
       "Id": "most-security",
@@ -408,6 +444,18 @@
       "Lines": 1243,
       "Words": 1120,
       "Size": 9321
+    },
+    {
+      "Id": "skullsecurity-comp",
+      "Name": "Skull Security Password list Compilations +6.5M",
+      "Uri": "https://download.weakpass.com/wordlists/671/SkullSecurityComp.gz",
+      "Hash": "7ojwzbUQR5fDSqI4Yp6eiUUmoF/mVnxWWjTKKGFgtyQ=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 6693337,
+      "Words": 6691633,
+      "Size": 39566845
     },
     {
       "Id": "sqlmap",
