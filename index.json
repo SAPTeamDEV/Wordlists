@@ -278,6 +278,30 @@
       "Size": 8668
     },
     {
+      "Id": "mailpassname",
+      "Name": "Mail Passwords +38M",
+      "Uri": "https://download.weakpass.com/wordlists/1708/mailpassname.txt.gz",
+      "Hash": "sz7Y0Mvi9i3Ri5XNqbBwEHHfKu1ZS7cykltaziXh+O4=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 38211637,
+      "Words": 38210265,
+      "Size": 153930670
+    },
+    {
+      "Id": "mcp",
+      "Name": "1M Most Common Passwords",
+      "Uri": "https://download.weakpass.com/wordlists/308/1,4_Mio_most_common_passwords.txt.gz",
+      "Hash": "CCuKgyMN2Iy5rj96RxwGO0dT/Iiu86q7RHkrMFPc/nA=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 1041187,
+      "Words": 1016700,
+      "Size": 5294921
+    },
+    {
       "Id": "md5decrypt",
       "Name": "MD5 Decrypt +3.4M",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/md5decryptor.txt",
@@ -336,6 +360,18 @@
       "Lines": 10177,
       "Words": 9709,
       "Size": 71039
+    },
+    {
+      "Id": "net-zwerg",
+      "Name": "NetZwerg 8.5M",
+      "Uri": "https://download.weakpass.com/wordlists/510/NetZwerg.txt.gz",
+      "Hash": "fYJfv0OmDXS8tOvgCHWKGXGPw+WsGw0//0au5IFahT0=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 8511774,
+      "Words": 6907945,
+      "Size": 25236446
     },
     {
       "Id": "openwall",
@@ -470,6 +506,18 @@
       "Size": 4865152
     },
     {
+      "Id": "tbm",
+      "Name": "Tiny But Mighty 1.7M",
+      "Uri": "https://download.weakpass.com/wordlists/696/TinyButMighty.txt.gz",
+      "Hash": "xty0NXYuqFOWdYlmKeEZ9KmAS6g271E1gZFm47Iua4Y=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 1726060,
+      "Words": 1706918,
+      "Size": 5945809
+    },
+    {
       "Id": "top1pt6million-probable-v2",
       "Name": "Top 6M Probable Passwords v2",
       "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
@@ -494,6 +542,18 @@
       "Size": 1228952
     },
     {
+      "Id": "upass",
+      "Name": "Ultimate Passwords list +2.7M",
+      "Uri": "https://download.weakpass.com/wordlists/338/UltimatePasswordsList.txt.gz",
+      "Hash": "JOplRwKAiUPP0N4sGq8+DpmD6nq3o1zNAEDy17lYOh4=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 2794894,
+      "Words": 2794541,
+      "Size": 7265197
+    },
+    {
       "Id": "userpass-combo",
       "Name": "UserPass Combo +500",
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/UserPassCombo-Jay.txt",
@@ -504,6 +564,18 @@
       "Lines": 727,
       "Words": 682,
       "Size": 5229
+    },
+    {
+      "Id": "wordlist-final",
+      "Name": "Wordlist collection +9.5M",
+      "Uri": "https://download.weakpass.com/wordlists/600/wordlist-final.txt.gz",
+      "Hash": "E5yQnhhvgVB+/uIMUGug/WYvVThf0kn4TjQQ9BT2YNA=",
+      "Enforced": false,
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 9586053,
+      "Words": 7730003,
+      "Size": 29692064
     },
     {
       "Id": "xato-net-10m",
