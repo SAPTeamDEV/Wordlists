@@ -245,6 +245,30 @@
       "DownloadUri": "https://download.weakpass.com/wordlists/1711/real-pass_login.txt.gz",
       "QuickCheckPriority": 1,
       "Compressed": true
+    },
+    "mega-slovar": {
+      "Name": "Mega Slovar +30M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/387/mega_slovar.txt.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
+    },
+    "skullsecurity-comp": {
+      "Name": "Skull Security Password list Compilations +6.5M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/671/SkullSecurityComp.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
+    },
+    "fling-top": {
+      "Name": "Fling Top +16M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/1903/fling_top.txt.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
+    },
+    "member-login": {
+      "Name": "Parsed logins from AM (Ashley Madison) dump +36M",
+      "DownloadUri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
+      "QuickCheckPriority": 1,
+      "Compressed": true
     }
   }
 }
