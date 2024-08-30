@@ -29,7 +29,7 @@ jobs:
         shell: bash
       - name: Update Index
         run: |
-          kryptor wordlist index -v --optimize wordlists.json
+          kryptor wordlist index -v --no-color --optimize wordlists.json
         shell: bash
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
