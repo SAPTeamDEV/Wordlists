@@ -44,17 +44,6 @@
       "Size": 3491
     },
     {
-      "Id": "aslm",
-      "Name": "ASLM \u002B41M",
-      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
-      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 41591035,
-      "Words": 41529293,
-      "Size": 133386515
-    },
-    {
       "Id": "bt4",
       "Name": "bt4 \u002B1.5M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
@@ -192,39 +181,6 @@
       "Lines": 453009,
       "Words": 223216,
       "Size": 3998638
-    },
-    {
-      "Id": "ignis-10m",
-      "Name": "Ignis 10M",
-      "Uri": "https://download.weakpass.com/wordlists/1935/ignis-10M.txt.7z",
-      "Hash": "gEtmnRa1sMqY+/DPAEfhJTvQpOinYqrwvnUVIx/DAJg=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 10000000,
-      "Words": 9959447,
-      "Size": 33317586
-    },
-    {
-      "Id": "ignis-1m",
-      "Name": "Ignis 1M",
-      "Uri": "https://download.weakpass.com/wordlists/1937/ignis-1M.txt.7z",
-      "Hash": "YdSF+rZ/Qk8KYa3zDmBT/W3k3IUdtGw/4zAGkQnfPE8=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 1000000,
-      "Words": 989836,
-      "Size": 3546270
-    },
-    {
-      "Id": "kaonashi",
-      "Name": "Kaonashi \u002B14M",
-      "Uri": "https://download.weakpass.com/wordlists/1938/kaonashi14M.txt.7z",
-      "Hash": "ReiEZ6WNdFOJuvDRGO0x46WsIRNAqV5b74kbGM+Gx08=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 14344391,
-      "Words": 14268680,
-      "Size": 50028400
     },
     {
       "Id": "letterpass",
@@ -377,17 +333,6 @@
       "Lines": 4800,
       "Words": 4800,
       "Size": 45275
-    },
-    {
-      "Id": "psbdmp",
-      "Name": "Psbdmp and pastebin crawled passwords 24M",
-      "Uri": "https://download.weakpass.com/wordlists/1925/psbdmp.txt.7z",
-      "Hash": "rJ6R7FpF+Zj1RVjAzuQFMzXv5VLEIWjwKUS7QFTDWkk=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 24068920,
-      "Words": 24068920,
-      "Size": 75598446
     },
     {
       "Id": "real-pass-login",
