@@ -216,17 +216,6 @@
       "Size": 3546270
     },
     {
-      "Id": "kaonashi",
-      "Name": "Kaonashi \u002B14M",
-      "Uri": "https://download.weakpass.com/wordlists/1938/kaonashi14M.txt.7z",
-      "Hash": "ReiEZ6WNdFOJuvDRGO0x46WsIRNAqV5b74kbGM+Gx08=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 14344391,
-      "Words": 14268680,
-      "Size": 50028400
-    },
-    {
       "Id": "letterpass",
       "Name": "Most Popular Letter Passes \u002B40K",
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt",
