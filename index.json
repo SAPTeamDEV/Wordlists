@@ -143,11 +143,11 @@
       "Id": "gmail-alleged",
       "Name": "Gmail Alleged 5M",
       "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
-      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
+      "Hash": "k0bPyYKQqhP2mfnHemSC4J6TUEal28eL/NLp6RKVng4=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 4929090,
-      "Words": 3121577,
+      "Lines": 4694198,
+      "Words": 3361860,
       "Size": 26512076
     },
     {
@@ -453,17 +453,6 @@
       "Lines": 1726060,
       "Words": 1706918,
       "Size": 5945809
-    },
-    {
-      "Id": "top1pt6million-probable-v2",
-      "Name": "Top 6M Probable Passwords v2",
-      "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
-      "Hash": "x/k+2biLYYiuGivua48jDfhecHo38x71XLn7nVQME5g=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 1667462,
-      "Words": 1652711,
-      "Size": 6545418
     },
     {
       "Id": "top304k-probable-v2",
