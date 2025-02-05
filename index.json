@@ -111,11 +111,11 @@
       "Id": "dazzlepod",
       "Name": "Dazzlepod \u002B2M",
       "Uri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
-      "Hash": "4jOsLCvpvh9EyXUVMrE8z7S+2I0oI+jFgEjMb/J597M=",
+      "Hash": "EQ2a0dCdB1e+A+kKNJbIg0F3TfnSk3mSTlbWMYOrqbc=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 898059,
-      "Words": 895839,
+      "Lines": 892794,
+      "Words": 890978,
       "Size": 8459605
     },
     {
@@ -138,6 +138,17 @@
       "Lines": 16245214,
       "Words": 16233014,
       "Size": 64886435
+    },
+    {
+      "Id": "gmail-alleged",
+      "Name": "Gmail Alleged 5M",
+      "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
+      "Hash": "RtFkcSkUZLfELCw3/5tZKFSQVPwlZKTs0KPjGHADMC4=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 4283672,
+      "Words": 3146788,
+      "Size": 26512076
     },
     {
       "Id": "hak5",
@@ -273,11 +284,11 @@
       "Id": "member-login",
       "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
       "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
-      "Hash": "+j/MNdXQJ2h3CsSEetD30MAEqEbX2H1zDpreXpAM5fY=",
+      "Hash": "YQPpV8F8OahyrNFeTmuyO4VZHu10ZMrJNJEpoFgREiE=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 10222144,
-      "Words": 9049699,
+      "Lines": 10226277,
+      "Words": 9054036,
       "Size": 125263195
     },
     {
