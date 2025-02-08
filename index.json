@@ -140,17 +140,6 @@
       "Size": 64886435
     },
     {
-      "Id": "gmail-alleged",
-      "Name": "Gmail Alleged 5M",
-      "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
-      "Hash": "vk14BiQd/jbqyCIGONdkgHb7KO9DhtBO5J13yM0sxDE=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 3862855,
-      "Words": 3124318,
-      "Size": 26512076
-    },
-    {
       "Id": "hak5",
       "Name": "hak5 \u002B2K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/hak5.txt",
@@ -279,6 +268,17 @@
       "Lines": 31630764,
       "Words": 24277447,
       "Size": 96523917
+    },
+    {
+      "Id": "member-login",
+      "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
+      "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
+      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 36400530,
+      "Words": 35182132,
+      "Size": 125263195
     },
     {
       "Id": "most-security",
@@ -447,11 +447,11 @@
       "Id": "top1pt6million-probable-v2",
       "Name": "Top 6M Probable Passwords v2",
       "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
-      "Hash": "x/k+2biLYYiuGivua48jDfhecHo38x71XLn7nVQME5g=",
+      "Hash": "imRgmXF5Oyr3cLyPKWLcQXYZiYyDW9LV5B/q3JvBikQ=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1667462,
-      "Words": 1652711,
+      "Lines": 1570068,
+      "Words": 1549040,
       "Size": 6545418
     },
     {
