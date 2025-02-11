@@ -111,11 +111,11 @@
       "Id": "dazzlepod",
       "Name": "Dazzlepod \u002B2M",
       "Uri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
-      "Hash": "LTjR++Y1gSLJGcfgjsQOtGeMh62Myzta78HYrHXnbL8=",
+      "Hash": "B9YNitrepBsWlJDEArg0GI4nhkDLi0Dy91rVYxStfPc=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 2151235,
-      "Words": 2146112,
+      "Lines": 1877757,
+      "Words": 1873341,
       "Size": 8459605
     },
     {
@@ -138,17 +138,6 @@
       "Lines": 16245214,
       "Words": 16233014,
       "Size": 64886435
-    },
-    {
-      "Id": "gmail-alleged",
-      "Name": "Gmail Alleged 5M",
-      "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
-      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 4929090,
-      "Words": 3121577,
-      "Size": 26512076
     },
     {
       "Id": "hak5",
