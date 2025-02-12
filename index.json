@@ -111,11 +111,11 @@
       "Id": "dazzlepod",
       "Name": "Dazzlepod \u002B2M",
       "Uri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
-      "Hash": "B9YNitrepBsWlJDEArg0GI4nhkDLi0Dy91rVYxStfPc=",
+      "Hash": "LTjR++Y1gSLJGcfgjsQOtGeMh62Myzta78HYrHXnbL8=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1877757,
-      "Words": 1873341,
+      "Lines": 2151235,
+      "Words": 2146112,
       "Size": 8459605
     },
     {
@@ -138,6 +138,17 @@
       "Lines": 16245214,
       "Words": 16233014,
       "Size": 64886435
+    },
+    {
+      "Id": "gmail-alleged",
+      "Name": "Gmail Alleged 5M",
+      "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
+      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 4929090,
+      "Words": 3121577,
+      "Size": 26512076
     },
     {
       "Id": "hak5",
@@ -447,11 +458,11 @@
       "Id": "top1pt6million-probable-v2",
       "Name": "Top 6M Probable Passwords v2",
       "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
-      "Hash": "x/k+2biLYYiuGivua48jDfhecHo38x71XLn7nVQME5g=",
+      "Hash": "4HctU6FJ+kvp/rCJtmUX81nm5Esao6o+9UgGaA3rghU=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1667462,
-      "Words": 1652711,
+      "Lines": 1563908,
+      "Words": 1540960,
       "Size": 6545418
     },
     {
