@@ -458,11 +458,11 @@
       "Id": "top1pt6million-probable-v2",
       "Name": "Top 6M Probable Passwords v2",
       "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
-      "Hash": "8gKSyIl1X7fLGpZNSrjOrCKaiuuW506xUQGORwyY/xY=",
+      "Hash": "x/k+2biLYYiuGivua48jDfhecHo38x71XLn7nVQME5g=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1557696,
-      "Words": 1534792,
+      "Lines": 1667462,
+      "Words": 1652711,
       "Size": 6545418
     },
     {
