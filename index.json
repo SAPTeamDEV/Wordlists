@@ -100,11 +100,11 @@
       "Id": "dazzlepod",
       "Name": "Dazzlepod \u002B2M",
       "Uri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
-      "Hash": "LTjR++Y1gSLJGcfgjsQOtGeMh62Myzta78HYrHXnbL8=",
+      "Hash": "B9YNitrepBsWlJDEArg0GI4nhkDLi0Dy91rVYxStfPc=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 2151235,
-      "Words": 2146112,
+      "Lines": 1877757,
+      "Words": 1873341,
       "Size": 8459605
     },
     {
@@ -116,17 +116,6 @@
       "Lines": 4322834,
       "Words": 3975979,
       "Size": 43164170
-    },
-    {
-      "Id": "gmail-alleged",
-      "Name": "Gmail Alleged 5M",
-      "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
-      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 4929090,
-      "Words": 3121577,
-      "Size": 26512076
     },
     {
       "Id": "hak5",
@@ -216,17 +205,6 @@
       "Size": 8668
     },
     {
-      "Id": "mailpassname",
-      "Name": "Mail Passwords \u002B38M",
-      "Uri": "https://download.weakpass.com/wordlists/1708/mailpassname.txt.gz",
-      "Hash": "lFYbbpnWPbtSPDUs5/mlifEeX0opDis01PaVlTWFvGc=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 19812825,
-      "Words": 19811305,
-      "Size": 153930670
-    },
-    {
       "Id": "mcp",
       "Name": "1M Most Common Passwords",
       "Uri": "https://download.weakpass.com/wordlists/308/1,4_Mio_most_common_passwords.txt.gz",
@@ -257,6 +235,17 @@
       "Lines": 31630764,
       "Words": 24277447,
       "Size": 96523917
+    },
+    {
+      "Id": "member-login",
+      "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
+      "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
+      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 36400530,
+      "Words": 35182132,
+      "Size": 125263195
     },
     {
       "Id": "most-security",
@@ -420,6 +409,17 @@
       "Lines": 1726060,
       "Words": 1706918,
       "Size": 5945809
+    },
+    {
+      "Id": "top1pt6million-probable-v2",
+      "Name": "Top 6M Probable Passwords v2",
+      "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
+      "Hash": "r24FipGR2XSnup/v+bo9T2aZVCGBxmL4js4Xa12v1fY=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 1562189,
+      "Words": 1545522,
+      "Size": 6545418
     },
     {
       "Id": "top304k-probable-v2",
