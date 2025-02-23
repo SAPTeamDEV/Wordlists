@@ -22,6 +22,17 @@
       "Size": 11300160
     },
     {
+      "Id": "aslm",
+      "Name": "ASLM \u002B41M",
+      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
+      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 41591035,
+      "Words": 41529293,
+      "Size": 133386515
+    },
+    {
       "Id": "bt4",
       "Name": "bt4 \u002B1.5M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
@@ -110,11 +121,11 @@
       "Id": "gmail-alleged",
       "Name": "Gmail Alleged 5M",
       "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
-      "Hash": "Es0CACatU++MY5Ld9uoKtR0VTU9WcFmhRuorUEd+T3g=",
+      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 4044367,
-      "Words": 3167337,
+      "Lines": 4929090,
+      "Words": 3121577,
       "Size": 26512076
     },
     {
@@ -203,17 +214,6 @@
       "Lines": 999,
       "Words": 986,
       "Size": 8668
-    },
-    {
-      "Id": "mailpassname",
-      "Name": "Mail Passwords \u002B38M",
-      "Uri": "https://download.weakpass.com/wordlists/1708/mailpassname.txt.gz",
-      "Hash": "AVoyIpgTg41tHWPKvnuS7qi1wy8E0nqsyMhuuGprizc=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 35697788,
-      "Words": 35696225,
-      "Size": 153930670
     },
     {
       "Id": "mcp",
