@@ -22,6 +22,17 @@
       "Size": 11300160
     },
     {
+      "Id": "aslm",
+      "Name": "ASLM \u002B41M",
+      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
+      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 41591035,
+      "Words": 41529293,
+      "Size": 133386515
+    },
+    {
       "Id": "bt4",
       "Name": "bt4 \u002B1.5M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
@@ -89,11 +100,11 @@
       "Id": "dazzlepod",
       "Name": "Dazzlepod \u002B2M",
       "Uri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
-      "Hash": "zNx7hDI77ijuijiYdPMd291GWYW3saA4w2yur4wyDrs=",
+      "Hash": "LTjR++Y1gSLJGcfgjsQOtGeMh62Myzta78HYrHXnbL8=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1876317,
-      "Words": 1872112,
+      "Lines": 2151235,
+      "Words": 2146112,
       "Size": 8459605
     },
     {
@@ -110,11 +121,11 @@
       "Id": "fling-top",
       "Name": "Fling Top \u002B16M",
       "Uri": "https://download.weakpass.com/wordlists/1903/fling_top.txt.gz",
-      "Hash": "7kAtquZ5ItMwbU6a6r+6Utqj5SKOINa7acB3nkgFxek=",
+      "Hash": "1SvrYyU2RYOEA1nr0GnFsZKCfAUPZBxA25Vej0l5o7I=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 3962283,
-      "Words": 3954777,
+      "Lines": 3940969,
+      "Words": 3933627,
       "Size": 64886435
     },
     {
@@ -436,11 +447,11 @@
       "Id": "top1pt6million-probable-v2",
       "Name": "Top 6M Probable Passwords v2",
       "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
-      "Hash": "4HctU6FJ+kvp/rCJtmUX81nm5Esao6o+9UgGaA3rghU=",
+      "Hash": "x/k+2biLYYiuGivua48jDfhecHo38x71XLn7nVQME5g=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1563908,
-      "Words": 1540960,
+      "Lines": 1667462,
+      "Words": 1652711,
       "Size": 6545418
     },
     {
