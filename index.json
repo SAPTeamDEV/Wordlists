@@ -14,12 +14,23 @@
       "Id": "3m-combo-list",
       "Name": "3M Combo List",
       "Uri": "https://download.weakpass.com/wordlists/1221/3,000,000%20%20combo%20list.txt.gz",
-      "Hash": "Wy4FxiRGKxDyHOtMEs7QlorHeowBZWKp7diaTnv2CNs=",
+      "Hash": "ycdns4fwAOiMl4CQ3txtSoOuAimNBx4zomf5YgKygmQ=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 850519,
-      "Words": 843117,
+      "Lines": 2173674,
+      "Words": 2172645,
       "Size": 11300160
+    },
+    {
+      "Id": "aslm",
+      "Name": "ASLM \u002B41M",
+      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
+      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 41591035,
+      "Words": 41529293,
+      "Size": 133386515
     },
     {
       "Id": "bt4",
@@ -86,6 +97,17 @@
       "Size": 82603
     },
     {
+      "Id": "dazzlepod",
+      "Name": "Dazzlepod \u002B2M",
+      "Uri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
+      "Hash": "LTjR++Y1gSLJGcfgjsQOtGeMh62Myzta78HYrHXnbL8=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 2151235,
+      "Words": 2146112,
+      "Size": 8459605
+    },
+    {
       "Id": "dutch",
       "Name": "Dutch Passwords \u002B4.2M",
       "Uri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
@@ -99,12 +121,23 @@
       "Id": "fling-top",
       "Name": "Fling Top \u002B16M",
       "Uri": "https://download.weakpass.com/wordlists/1903/fling_top.txt.gz",
-      "Hash": "/Y/ZjlQIhNB/V0TSibZfNgRilM3qY/b7K/RV/jK7wZ8=",
+      "Hash": "2RQAyfKUNz7/DKk6CAOboSbtSb8m+61Dk6A3Qf0ZAoc=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 7705236,
-      "Words": 7686295,
+      "Lines": 16245214,
+      "Words": 16233014,
       "Size": 64886435
+    },
+    {
+      "Id": "gmail-alleged",
+      "Name": "Gmail Alleged 5M",
+      "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
+      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 4929090,
+      "Words": 3121577,
+      "Size": 26512076
     },
     {
       "Id": "hak5",
@@ -197,11 +230,11 @@
       "Id": "mailpassname",
       "Name": "Mail Passwords \u002B38M",
       "Uri": "https://download.weakpass.com/wordlists/1708/mailpassname.txt.gz",
-      "Hash": "SeBmfrxRMug2if8rvc51r9VEpdbEKcGBNRblOoIbnfk=",
+      "Hash": "sz7Y0Mvi9i3Ri5XNqbBwEHHfKu1ZS7cykltaziXh+O4=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 19374419,
-      "Words": 19372278,
+      "Lines": 38211637,
+      "Words": 38210265,
       "Size": 153930670
     },
     {
@@ -235,6 +268,17 @@
       "Lines": 31630764,
       "Words": 24277447,
       "Size": 96523917
+    },
+    {
+      "Id": "member-login",
+      "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
+      "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
+      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 36400530,
+      "Words": 35182132,
+      "Size": 125263195
     },
     {
       "Id": "most-security",
