@@ -22,17 +22,6 @@
       "Size": 11300160
     },
     {
-      "Id": "aslm",
-      "Name": "ASLM \u002B41M",
-      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
-      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 41591035,
-      "Words": 41529293,
-      "Size": 133386515
-    },
-    {
       "Id": "bt4",
       "Name": "bt4 \u002B1.5M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
@@ -121,23 +110,12 @@
       "Id": "fling-top",
       "Name": "Fling Top \u002B16M",
       "Uri": "https://download.weakpass.com/wordlists/1903/fling_top.txt.gz",
-      "Hash": "2RQAyfKUNz7/DKk6CAOboSbtSb8m+61Dk6A3Qf0ZAoc=",
+      "Hash": "ZdlmbBWrI9L+Tdfk+4zITZikrXKk15x71+uA16E0sxk=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 16245214,
-      "Words": 16233014,
+      "Lines": 7711316,
+      "Words": 7692518,
       "Size": 64886435
-    },
-    {
-      "Id": "gmail-alleged",
-      "Name": "Gmail Alleged 5M",
-      "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
-      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 4929090,
-      "Words": 3121577,
-      "Size": 26512076
     },
     {
       "Id": "hak5",
