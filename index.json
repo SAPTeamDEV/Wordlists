@@ -118,6 +118,17 @@
       "Size": 43164170
     },
     {
+      "Id": "fling-top",
+      "Name": "Fling Top \u002B16M",
+      "Uri": "https://download.weakpass.com/wordlists/1903/fling_top.txt.gz",
+      "Hash": "2RQAyfKUNz7/DKk6CAOboSbtSb8m+61Dk6A3Qf0ZAoc=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 16245214,
+      "Words": 16233014,
+      "Size": 64886435
+    },
+    {
       "Id": "gmail-alleged",
       "Name": "Gmail Alleged 5M",
       "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
@@ -262,11 +273,11 @@
       "Id": "member-login",
       "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
       "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
-      "Hash": "3/aSG7Auqaq6bf7s7PPST/b+UyOPij/H/i02otkKgSk=",
+      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 10251573,
-      "Words": 9081149,
+      "Lines": 36400530,
+      "Words": 35182132,
       "Size": 125263195
     },
     {
