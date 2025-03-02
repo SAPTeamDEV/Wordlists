@@ -22,17 +22,6 @@
       "Size": 11300160
     },
     {
-      "Id": "aslm",
-      "Name": "ASLM \u002B41M",
-      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
-      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 41591035,
-      "Words": 41529293,
-      "Size": 133386515
-    },
-    {
       "Id": "bt4",
       "Name": "bt4 \u002B1.5M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
