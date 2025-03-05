@@ -22,6 +22,17 @@
       "Size": 11300160
     },
     {
+      "Id": "aslm",
+      "Name": "ASLM \u002B41M",
+      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
+      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 41591035,
+      "Words": 41529293,
+      "Size": 133386515
+    },
+    {
       "Id": "bt4",
       "Name": "bt4 \u002B1.5M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
@@ -121,11 +132,11 @@
       "Id": "gmail-alleged",
       "Name": "Gmail Alleged 5M",
       "Uri": "https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz",
-      "Hash": "CDE0JOaX/eWsNTIRUNOcr7wzsM34wtE61a4M/rCktIs=",
+      "Hash": "BglJDR9EJYU4PMyyBqGxfN89AvZ5I7etE+YqHgHwdDk=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 3988623,
-      "Words": 3150361,
+      "Lines": 4929090,
+      "Words": 3121577,
       "Size": 26512076
     },
     {
@@ -216,6 +227,17 @@
       "Size": 8668
     },
     {
+      "Id": "mailpassname",
+      "Name": "Mail Passwords \u002B38M",
+      "Uri": "https://download.weakpass.com/wordlists/1708/mailpassname.txt.gz",
+      "Hash": "sz7Y0Mvi9i3Ri5XNqbBwEHHfKu1ZS7cykltaziXh+O4=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 38211637,
+      "Words": 38210265,
+      "Size": 153930670
+    },
+    {
       "Id": "mcp",
       "Name": "1M Most Common Passwords",
       "Uri": "https://download.weakpass.com/wordlists/308/1,4_Mio_most_common_passwords.txt.gz",
@@ -248,10 +270,21 @@
       "Size": 96523917
     },
     {
+      "Id": "member-login",
+      "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
+      "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
+      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 36400530,
+      "Words": 35182132,
+      "Size": 125263195
+    },
+    {
       "Id": "most-security",
       "Name": "Most Security \u002B4.2M",
       "Uri": "https://download.weakpass.com/wordlists/1214/most_security.gz",
-      "Hash": "p6tY0dzWf3fXkBeLktNLA4dy8YKTEYVMsvQVO81yTQs=",
+      "Hash": "Jot5/2g4qBGoNHMj5t9MfvpSkN292Tx544nmAbt4qSo=",
       "Compressed": true,
       "Optimized": true,
       "Lines": 4238398,
@@ -414,11 +447,11 @@
       "Id": "top1pt6million-probable-v2",
       "Name": "Top 6M Probable Passwords v2",
       "Uri": "https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz",
-      "Hash": "8gKSyIl1X7fLGpZNSrjOrCKaiuuW506xUQGORwyY/xY=",
+      "Hash": "x/k+2biLYYiuGivua48jDfhecHo38x71XLn7nVQME5g=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1557696,
-      "Words": 1534792,
+      "Lines": 1667462,
+      "Words": 1652711,
       "Size": 6545418
     },
     {
