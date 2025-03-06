@@ -14,12 +14,23 @@
       "Id": "3m-combo-list",
       "Name": "3M Combo List",
       "Uri": "https://download.weakpass.com/wordlists/1221/3,000,000%20%20combo%20list.txt.gz",
-      "Hash": "rwh1rUq43sndgddd2QkiIk4gDqimNYpHFVfeFL1PZgc=",
+      "Hash": "ycdns4fwAOiMl4CQ3txtSoOuAimNBx4zomf5YgKygmQ=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1185501,
-      "Words": 1178654,
+      "Lines": 2173674,
+      "Words": 2172645,
       "Size": 11300160
+    },
+    {
+      "Id": "aslm",
+      "Name": "ASLM \u002B41M",
+      "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
+      "Hash": "b9XvBiMysQ/hzY42Or8m2okc79rB3FAnDVS86rZyQK0=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 41591035,
+      "Words": 41529293,
+      "Size": 133386515
     },
     {
       "Id": "bt4",
@@ -110,11 +121,11 @@
       "Id": "fling-top",
       "Name": "Fling Top \u002B16M",
       "Uri": "https://download.weakpass.com/wordlists/1903/fling_top.txt.gz",
-      "Hash": "4vSMpdox69cjgJu2N3uh1NdqQ4Q9V2Q5YDLCi+2mvWE=",
+      "Hash": "2RQAyfKUNz7/DKk6CAOboSbtSb8m+61Dk6A3Qf0ZAoc=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 3946804,
-      "Words": 3937347,
+      "Lines": 16245214,
+      "Words": 16233014,
       "Size": 64886435
     },
     {
@@ -219,11 +230,11 @@
       "Id": "mailpassname",
       "Name": "Mail Passwords \u002B38M",
       "Uri": "https://download.weakpass.com/wordlists/1708/mailpassname.txt.gz",
-      "Hash": "tRnKo+nAyGLHKBoKr8hnVXLNewJ4XONDIlV3aUje8vs=",
+      "Hash": "sz7Y0Mvi9i3Ri5XNqbBwEHHfKu1ZS7cykltaziXh+O4=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 35831868,
-      "Words": 35825595,
+      "Lines": 38211637,
+      "Words": 38210265,
       "Size": 153930670
     },
     {
@@ -257,17 +268,6 @@
       "Lines": 31630764,
       "Words": 24277447,
       "Size": 96523917
-    },
-    {
-      "Id": "member-login",
-      "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
-      "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
-      "Hash": "sTOT9fMFHyn7BGeNCEXkvlKx/KSItzxQZ5CN0azBqdg=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 10226277,
-      "Words": 9054047,
-      "Size": 125263195
     },
     {
       "Id": "most-security",
