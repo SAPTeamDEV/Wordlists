@@ -270,6 +270,17 @@
       "Size": 96523917
     },
     {
+      "Id": "member-login",
+      "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
+      "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
+      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 36400530,
+      "Words": 35182132,
+      "Size": 125263195
+    },
+    {
       "Id": "most-security",
       "Name": "Most Security \u002B4.2M",
       "Uri": "https://download.weakpass.com/wordlists/1214/most_security.gz",
