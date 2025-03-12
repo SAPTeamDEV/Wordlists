@@ -227,6 +227,17 @@
       "Size": 8668
     },
     {
+      "Id": "mailpassname",
+      "Name": "Mail Passwords \u002B38M",
+      "Uri": "https://download.weakpass.com/wordlists/1708/mailpassname.txt.gz",
+      "Hash": "sz7Y0Mvi9i3Ri5XNqbBwEHHfKu1ZS7cykltaziXh+O4=",
+      "Compressed": true,
+      "Optimized": true,
+      "Lines": 38211637,
+      "Words": 38210265,
+      "Size": 153930670
+    },
+    {
       "Id": "mcp",
       "Name": "1M Most Common Passwords",
       "Uri": "https://download.weakpass.com/wordlists/308/1,4_Mio_most_common_passwords.txt.gz",
