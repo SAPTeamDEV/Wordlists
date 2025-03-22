@@ -86,17 +86,6 @@
       "Size": 15069474
     },
     {
-      "Id": "darkweb2017-top10k",
-      "Name": "Darkweb 2017 10K",
-      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkweb2017-top10000.txt",
-      "Hash": "R58JWw37rgdUYkVEH2SkW3E3NSYXtMryW4HqVR5nya8=",
-      "Enforced": true,
-      "Optimized": true,
-      "Lines": 9999,
-      "Words": 9825,
-      "Size": 82603
-    },
-    {
       "Id": "dazzlepod",
       "Name": "Dazzlepod \u002B2M",
       "Uri": "https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz",
@@ -377,17 +366,6 @@
       "Lines": 12705340,
       "Words": 12689727,
       "Size": 50610267
-    },
-    {
-      "Id": "richelieu",
-      "Name": "richelieu french top 20K",
-      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/richelieu-french-top20000.txt",
-      "Hash": "bu18aCr7CwhbGiZkw/S+bfkzx/z75DiQI8tR5KtN4Vo=",
-      "Enforced": true,
-      "Optimized": true,
-      "Lines": 19994,
-      "Words": 18907,
-      "Size": 154919
     },
     {
       "Id": "rockyou",
