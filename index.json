@@ -455,17 +455,6 @@
       "Size": 7265197
     },
     {
-      "Id": "userpass-combo",
-      "Name": "UserPass Combo \u002B500",
-      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/UserPassCombo-Jay.txt",
-      "Hash": "KAAXi/UzripMqETW/tPqXgKz6c/aGt8TbXo6aJG+7VY=",
-      "Enforced": true,
-      "Optimized": true,
-      "Lines": 727,
-      "Words": 682,
-      "Size": 5229
-    },
-    {
       "Id": "wordlist-final",
       "Name": "Wordlist collection \u002B9.5M",
       "Uri": "https://download.weakpass.com/wordlists/600/wordlist-final.txt.gz",
