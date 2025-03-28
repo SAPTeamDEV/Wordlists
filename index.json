@@ -346,17 +346,6 @@
       "Size": 45275
     },
     {
-      "Id": "psbdmp",
-      "Name": "Psbdmp and pastebin crawled passwords 24M",
-      "Uri": "https://download.weakpass.com/wordlists/1925/psbdmp.txt.7z",
-      "Hash": "rJ6R7FpF+Zj1RVjAzuQFMzXv5VLEIWjwKUS7QFTDWkk=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 24068920,
-      "Words": 24068920,
-      "Size": 75598446
-    },
-    {
       "Id": "real-pass-login",
       "Name": "Real Login Passwords \u002B12M",
       "Uri": "https://download.weakpass.com/wordlists/1711/real-pass_login.txt.gz",
