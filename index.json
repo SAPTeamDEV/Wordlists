@@ -403,11 +403,11 @@
       "Id": "sqlmap",
       "Name": "SQL Map 1M",
       "Uri": "https://download.weakpass.com/wordlists/1136/sqlmap.txt.gz",
-      "Hash": "coRjS3GEhUPgkHFnzVrcDLGttl7uDNcxfO3MOD81iec=",
+      "Hash": "n719n2fq9Ff01YWvBAWakSeAnaTx3m+37nP5mf6lqYE=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 844168,
-      "Words": 838585,
+      "Lines": 1202867,
+      "Words": 1196336,
       "Size": 4865152
     },
     {
