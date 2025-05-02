@@ -284,12 +284,12 @@
       "Id": "names",
       "Name": "Names wordlist \u002B10K",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Usernames/Names/names.txt",
-      "Hash": "Y9qxtSlVoLPL5n8gxc09ChBYWkB1Otp0vRpTwvhk+bM=",
+      "Hash": "Q8rKpdBBSBP1+qeMnVi//gkIi3y10ahXx/qulVU98nM=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 10177,
-      "Words": 9709,
-      "Size": 71039
+      "Lines": 10713,
+      "Words": 10118,
+      "Size": 75127
     },
     {
       "Id": "net-zwerg",
