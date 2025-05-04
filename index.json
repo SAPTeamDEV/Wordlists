@@ -172,17 +172,6 @@
       "Size": 33317586
     },
     {
-      "Id": "ignis-1m",
-      "Name": "Ignis 1M",
-      "Uri": "https://download.weakpass.com/wordlists/1937/ignis-1M.txt.7z",
-      "Hash": "YdSF+rZ/Qk8KYa3zDmBT/W3k3IUdtGw/4zAGkQnfPE8=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 1000000,
-      "Words": 989836,
-      "Size": 3546270
-    },
-    {
       "Id": "kaonashi",
       "Name": "Kaonashi \u002B14M",
       "Uri": "https://download.weakpass.com/wordlists/1938/kaonashi14M.txt.7z",
