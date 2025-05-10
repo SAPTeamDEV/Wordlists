@@ -227,17 +227,6 @@
       "Size": 32272880
     },
     {
-      "Id": "mega-slovar",
-      "Name": "Mega Slovar \u002B30M",
-      "Uri": "https://download.weakpass.com/wordlists/387/mega_slovar.txt.gz",
-      "Hash": "RncjbazTHOHYBDJaE0KKgm0FGoX2xhHmEARpQ6jR4Fo=",
-      "Compressed": true,
-      "Optimized": true,
-      "Lines": 31630764,
-      "Words": 24277447,
-      "Size": 96523917
-    },
-    {
       "Id": "member-login",
       "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
       "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
