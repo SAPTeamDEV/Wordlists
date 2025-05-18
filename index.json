@@ -44,6 +44,17 @@
       "Size": 7417
     },
     {
+      "Id": "common-root",
+      "Name": "Common Roots \u002B4K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_roots.txt",
+      "Hash": "nDlZrmfExWOC7TcBBycsgtyy+tirnxk06T+SIZp5gXE=",
+      "Enforced": true,
+      "Optimized": true,
+      "Lines": 4724,
+      "Words": 4572,
+      "Size": 36998
+    },
+    {
       "Id": "darc0de",
       "Name": "darc0de \u002B1.4M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkc0de.txt",
@@ -63,6 +74,16 @@
       "Lines": 2151235,
       "Words": 2146112,
       "Size": 8459605
+    },
+    {
+      "Id": "dutch",
+      "Name": "Dutch Passwords \u002B4.2M",
+      "Uri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
+      "Hash": "X4UcJcy3MAmwLIuQxe+DMsRum4e5opq3aUusIwlOqcA=",
+      "Optimized": true,
+      "Lines": 4322834,
+      "Words": 3975979,
+      "Size": 43164170
     },
     {
       "Id": "fling-top",
