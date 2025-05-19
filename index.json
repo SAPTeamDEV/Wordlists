@@ -44,17 +44,6 @@
       "Size": 7417
     },
     {
-      "Id": "common-root",
-      "Name": "Common Roots \u002B4K",
-      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_roots.txt",
-      "Hash": "nDlZrmfExWOC7TcBBycsgtyy+tirnxk06T+SIZp5gXE=",
-      "Enforced": true,
-      "Optimized": true,
-      "Lines": 4724,
-      "Words": 4572,
-      "Size": 36998
-    },
-    {
       "Id": "darc0de",
       "Name": "darc0de \u002B1.4M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkc0de.txt",
@@ -171,17 +160,6 @@
       "Lines": 14344391,
       "Words": 14268680,
       "Size": 50028400
-    },
-    {
-      "Id": "letterpass",
-      "Name": "Most Popular Letter Passes \u002B40K",
-      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt",
-      "Hash": "FBobodKqvLkGlIHWqqlRWaPAJo4pfs7cQKMLZhPTa2A=",
-      "Enforced": true,
-      "Optimized": true,
-      "Lines": 47603,
-      "Words": 47603,
-      "Size": 322069
     },
     {
       "Id": "lpmi",
