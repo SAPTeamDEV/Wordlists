@@ -173,17 +173,6 @@
       "Size": 50028400
     },
     {
-      "Id": "letterpass",
-      "Name": "Most Popular Letter Passes \u002B40K",
-      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt",
-      "Hash": "FBobodKqvLkGlIHWqqlRWaPAJo4pfs7cQKMLZhPTa2A=",
-      "Enforced": true,
-      "Optimized": true,
-      "Lines": 47603,
-      "Words": 47603,
-      "Size": 322069
-    },
-    {
       "Id": "lpmi",
       "Name": "lpmi 1K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/ipmi_passwords.txt",
@@ -215,16 +204,6 @@
       "Lines": 1041187,
       "Words": 1016700,
       "Size": 5294921
-    },
-    {
-      "Id": "md5decrypt",
-      "Name": "MD5 Decrypt \u002B3.4M",
-      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/md5decryptor.txt",
-      "Hash": "aIcEZKw/8RdN9a2QZsOArAR/xQ+zLONtd9lJdCrkkyE=",
-      "Optimized": true,
-      "Lines": 3431316,
-      "Words": 3398533,
-      "Size": 32272880
     },
     {
       "Id": "mega-slovar",
