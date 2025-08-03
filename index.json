@@ -241,7 +241,7 @@
       "Id": "member-login",
       "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
       "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
-      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
+      "Hash": "dP8kiGhagfa7QXO7Aj6X2ZP1Nvno4+vHJVatKs4xuxc=",
       "Compressed": true,
       "Optimized": true,
       "Lines": 36400530,
