@@ -241,7 +241,7 @@
       "Id": "member-login",
       "Name": "Parsed logins from AM (Ashley Madison) dump \u002B36M",
       "Uri": "https://download.weakpass.com/wordlists/1099/member_login.gz",
-      "Hash": "dP8kiGhagfa7QXO7Aj6X2ZP1Nvno4+vHJVatKs4xuxc=",
+      "Hash": "jtNUGbkmjCsCEyBboNahSXN5owB1NvtT8fZacvzQWlc=",
       "Compressed": true,
       "Optimized": true,
       "Lines": 36400530,
@@ -382,11 +382,11 @@
       "Id": "sqlmap",
       "Name": "SQL Map 1M",
       "Uri": "https://download.weakpass.com/wordlists/1136/sqlmap.txt.gz",
-      "Hash": "n719n2fq9Ff01YWvBAWakSeAnaTx3m+37nP5mf6lqYE=",
+      "Hash": "coRjS3GEhUPgkHFnzVrcDLGttl7uDNcxfO3MOD81iec=",
       "Compressed": true,
       "Optimized": true,
-      "Lines": 1202867,
-      "Words": 1196336,
+      "Lines": 844168,
+      "Words": 838585,
       "Size": 4865152
     },
     {
