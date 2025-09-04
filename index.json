@@ -22,6 +22,17 @@
       "Size": 11300160
     },
     {
+      "Id": "500-worst",
+      "Name": "500 worst passwords",
+      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/500-worst-passwords.txt",
+      "Hash": "ka4V/2N8kYeqEC3BgJUoQFI6Xu0CQ5LF0DjgMF5lhgg=",
+      "Enforced": true,
+      "Optimized": true,
+      "Lines": 499,
+      "Words": 498,
+      "Size": 3491
+    },
+    {
       "Id": "aslm",
       "Name": "ASLM \u002B41M",
       "Uri": "https://download.weakpass.com/wordlists/1926/ASLM.txt.7z",
@@ -33,6 +44,16 @@
       "Size": 133386515
     },
     {
+      "Id": "bt4",
+      "Name": "bt4 \u002B1.5M",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/bt4-password.txt",
+      "Hash": "5OAkI8AHuo/sTnqqgLatlEpItSrcaWS/GvlGhsf+YjE=",
+      "Optimized": true,
+      "Lines": 1652903,
+      "Words": 1622044,
+      "Size": 15663259
+    },
+    {
       "Id": "burnett",
       "Name": "Burnett 1K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/burnett.txt",
@@ -42,6 +63,17 @@
       "Lines": 1024,
       "Words": 1024,
       "Size": 7417
+    },
+    {
+      "Id": "cirt",
+      "Name": "cirt \u002B1K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/cirt-default-passwords.txt",
+      "Hash": "wVCdozJfC7Gbz6qNeSsCgjilvQkEaheH0z/ER/d1lso=",
+      "Enforced": true,
+      "Optimized": true,
+      "Lines": 1041,
+      "Words": 930,
+      "Size": 7841
     },
     {
       "Id": "common-root",
@@ -63,6 +95,17 @@
       "Lines": 1471056,
       "Words": 1449632,
       "Size": 15069474
+    },
+    {
+      "Id": "darkweb2017-top10k",
+      "Name": "Darkweb 2017 10K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkweb2017-top10000.txt",
+      "Hash": "R58JWw37rgdUYkVEH2SkW3E3NSYXtMryW4HqVR5nya8=",
+      "Enforced": true,
+      "Optimized": true,
+      "Lines": 9999,
+      "Words": 9825,
+      "Size": 82603
     },
     {
       "Id": "dazzlepod",
@@ -263,12 +306,12 @@
       "Id": "names",
       "Name": "Names wordlist \u002B10K",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Usernames/Names/names.txt",
-      "Hash": "Q8rKpdBBSBP1+qeMnVi//gkIi3y10ahXx/qulVU98nM=",
+      "Hash": "Y9qxtSlVoLPL5n8gxc09ChBYWkB1Otp0vRpTwvhk+bM=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 10713,
-      "Words": 10118,
-      "Size": 75127
+      "Lines": 10177,
+      "Words": 9709,
+      "Size": 71039
     },
     {
       "Id": "net-zwerg",
@@ -345,6 +388,17 @@
       "Lines": 12705340,
       "Words": 12689727,
       "Size": 50610267
+    },
+    {
+      "Id": "richelieu",
+      "Name": "richelieu french top 20K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/richelieu-french-top20000.txt",
+      "Hash": "bu18aCr7CwhbGiZkw/S+bfkzx/z75DiQI8tR5KtN4Vo=",
+      "Enforced": true,
+      "Optimized": true,
+      "Lines": 19994,
+      "Words": 18907,
+      "Size": 154919
     },
     {
       "Id": "rockyou",
@@ -434,6 +488,17 @@
       "Size": 7265197
     },
     {
+      "Id": "userpass-combo",
+      "Name": "UserPass Combo \u002B500",
+      "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/UserPassCombo-Jay.txt",
+      "Hash": "KAAXi/UzripMqETW/tPqXgKz6c/aGt8TbXo6aJG+7VY=",
+      "Enforced": true,
+      "Optimized": true,
+      "Lines": 727,
+      "Words": 682,
+      "Size": 5229
+    },
+    {
       "Id": "wordlist-final",
       "Name": "Wordlist collection \u002B9.5M",
       "Uri": "https://download.weakpass.com/wordlists/600/wordlist-final.txt.gz",
@@ -443,6 +508,27 @@
       "Lines": 9586053,
       "Words": 7730003,
       "Size": 29692064
+    },
+    {
+      "Id": "xato-net-10m",
+      "Name": "xato net 10M",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/xato-net-10-million-passwords.txt",
+      "Hash": "yVmJ/s+unJGqn1xzA0TVyr1jNbsJTJxgq6Fr8XQqcv4=",
+      "Optimized": true,
+      "Lines": 5189454,
+      "Words": 5186451,
+      "Size": 48312893
+    },
+    {
+      "Id": "xato-net-10m-top100k",
+      "Name": "xato net 10M - top 100K",
+      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/xato-net-10-million-passwords-100000.txt",
+      "Hash": "FHKq+iVh314yk67iUq7jymYMErOZooPPgIuwGzm+OIs=",
+      "Enforced": true,
+      "Optimized": true,
+      "Lines": 100000,
+      "Words": 99922,
+      "Size": 781879
     },
     {
       "Id": "xsplit",
