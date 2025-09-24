@@ -76,6 +76,16 @@
       "Size": 8459605
     },
     {
+      "Id": "dutch",
+      "Name": "Dutch Passwords \u002B4.2M",
+      "Uri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
+      "Hash": "X4UcJcy3MAmwLIuQxe+DMsRum4e5opq3aUusIwlOqcA=",
+      "Optimized": true,
+      "Lines": 4322834,
+      "Words": 3975979,
+      "Size": 43164170
+    },
+    {
       "Id": "fling-top",
       "Name": "Fling Top \u002B16M",
       "Uri": "https://download.weakpass.com/wordlists/1903/fling_top.txt.gz",
