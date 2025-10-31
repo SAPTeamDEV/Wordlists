@@ -282,16 +282,6 @@
       "Size": 25236446
     },
     {
-      "Id": "openwall",
-      "Name": "openwall.net \u002B3.7M",
-      "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/openwall.net-all.txt",
-      "Hash": "DVS6q9P9fYy61ucYHDp9NIL1scuBObjcOf/AvuDo9yU=",
-      "Optimized": true,
-      "Lines": 3721224,
-      "Words": 3642113,
-      "Size": 40999980
-    },
-    {
       "Id": "passwords-win",
       "Name": "Common Passwords Win 800",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_passwords_win.txt",
