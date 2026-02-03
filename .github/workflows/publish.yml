@@ -3,20 +3,20 @@ name: Wordlist Index Updater
 on:
   workflow_dispatch:
   push:
-    paths: 'wordlists.json'
+    paths: "wordlists.json"
   pull_request:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: "0 */12 * * *"
 
 jobs:
   publish:
     name: Publish index
     runs-on: ubuntu-latest
-    
+
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
       contents: write
-    
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -29,10 +29,9 @@ jobs:
         shell: bash
       - name: Update Index
         run: |
-          kryptor wordlist index -v --no-color --optimize wordlists.json
+          kryptor -v --no-color wordlist index --optimize wordlists.json
         shell: bash
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           commit_message: Update wordlist index
-      
