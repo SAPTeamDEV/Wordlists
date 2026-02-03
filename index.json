@@ -4,11 +4,11 @@
       "Id": "000webhost",
       "Name": "000webhost \u002B700K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/000webhost.txt",
-      "Hash": "HsdW2yP6cdURYz42AS8UYjE/HVNSohd0oosbuvMyQm0=",
+      "Hash": "Y7zLCnqT1yOh95upYdckubKStkAnjekbTgbj7m41jeo=",
       "Optimized": true,
-      "Lines": 720302,
-      "Words": 719355,
-      "Size": 7708820
+      "Lines": 26530,
+      "Words": 11,
+      "Size": 3593391
     },
     {
       "Id": "3m-combo-list",
@@ -36,33 +36,31 @@
       "Id": "burnett",
       "Name": "Burnett 1K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/burnett.txt",
-      "Hash": "C9H5+koZ2Z0FIp5mO5Gkui+D/0CWKW1DHK3StvbiaAA=",
+      "Hash": "E+yoPakpJlCkCUH3wjEC9q1VK5+mqPRqbN5ttmJBMu8=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 1024,
-      "Words": 1024,
-      "Size": 7417
+      "Lines": 26,
+      "Size": 3475
     },
     {
       "Id": "common-root",
       "Name": "Common Roots \u002B4K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_roots.txt",
-      "Hash": "nDlZrmfExWOC7TcBBycsgtyy+tirnxk06T+SIZp5gXE=",
+      "Hash": "gyZv+phkTLcFz4VIsfIAYKM6+bQXsJ+fdLiS5pRJ4xU=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 4724,
-      "Words": 4572,
-      "Size": 36998
+      "Lines": 140,
+      "Size": 17646
     },
     {
       "Id": "darc0de",
       "Name": "darc0de \u002B1.4M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/darkc0de.txt",
-      "Hash": "f/b9xUf4+mZJ+wkUDAwvWaNYjQ1vuKu2T9DwlxL22rI=",
+      "Hash": "FsZEwf+l1YIcsOLMTK/TT0ELxO+YLfxSYrloRsILogA=",
       "Optimized": true,
-      "Lines": 1471056,
-      "Words": 1449632,
-      "Size": 15069474
+      "Lines": 37962,
+      "Words": 16,
+      "Size": 4843625
     },
     {
       "Id": "dazzlepod",
@@ -79,11 +77,11 @@
       "Id": "dutch",
       "Name": "Dutch Passwords \u002B4.2M",
       "Uri": "https://raw.githubusercontent.com/kkrypt0nn/wordlists/main/wordlists/passwords/dutch_passwords.txt",
-      "Hash": "X4UcJcy3MAmwLIuQxe+DMsRum4e5opq3aUusIwlOqcA=",
+      "Hash": "+Nr8OVLs98/QD2mSvQp7ybi0kUFf8/mg1w11+aQ/XdM=",
       "Optimized": true,
-      "Lines": 4322834,
-      "Words": 3975979,
-      "Size": 43164170
+      "Lines": 163945,
+      "Words": 53,
+      "Size": 21013593
     },
     {
       "Id": "fling-top",
@@ -111,12 +109,11 @@
       "Id": "hak5",
       "Name": "hak5 \u002B2K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/hak5.txt",
-      "Hash": "rKUcMirUK7TGB0cQeoHIOOWZnSyWvwqJiCfDREoSB/k=",
+      "Hash": "eyMvaW/T3fSJf7fs0QkvMTpue65PZyeTAWrjABhRMPw=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 2351,
-      "Words": 2348,
-      "Size": 24712
+      "Lines": 139,
+      "Size": 15612
     },
     {
       "Id": "hk-hlm-founds",
@@ -133,11 +130,11 @@
       "Id": "honeynet",
       "Name": "Honey Net \u002B450K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/honeynet.txt",
-      "Hash": "EGP0hWdlJpAMFN45zyilgnt+qLWPwpGRvusEPDOBm7A=",
+      "Hash": "LR8WLHRBbhyScavgqcD0CV6s4d4ZROyMAn5IE5tg5Ik=",
       "Optimized": true,
-      "Lines": 226081,
-      "Words": 223216,
-      "Size": 1996131
+      "Lines": 5708,
+      "Words": 2,
+      "Size": 744460
     },
     {
       "Id": "ignis-10m",
@@ -176,23 +173,21 @@
       "Id": "letterpass",
       "Name": "Most Popular Letter Passes \u002B40K",
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt",
-      "Hash": "FBobodKqvLkGlIHWqqlRWaPAJo4pfs7cQKMLZhPTa2A=",
+      "Hash": "XqM0RVvd4MST8YbIuxy18k9StkjSWsG47TN5YYqnhQI=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 47603,
-      "Words": 47603,
-      "Size": 322069
+      "Lines": 946,
+      "Size": 125562
     },
     {
       "Id": "lpmi",
       "Name": "lpmi 1K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/ipmi_passwords.txt",
-      "Hash": "WZfedqAx6yeYQZphsdbFMNHyZizs9zfQsuMv2SJp6bo=",
+      "Hash": "vRD0Qf0ZVqWEzOaV3jdfQsyrW/ka24iV7r0XPaKelh4=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 999,
-      "Words": 986,
-      "Size": 8668
+      "Lines": 39,
+      "Size": 4660
     },
     {
       "Id": "mailpassname",
@@ -220,11 +215,11 @@
       "Id": "md5decrypt",
       "Name": "MD5 Decrypt \u002B3.4M",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/md5decryptor.txt",
-      "Hash": "aIcEZKw/8RdN9a2QZsOArAR/xQ+zLONtd9lJdCrkkyE=",
+      "Hash": "lEhutNhqpSRSZ9RWBeDAt4PSj/i8rINvo/rtUS3kumY=",
       "Optimized": true,
-      "Lines": 3431316,
-      "Words": 3398533,
-      "Size": 32272880
+      "Lines": 152745,
+      "Words": 44,
+      "Size": 21103671
     },
     {
       "Id": "mega-slovar",
@@ -263,12 +258,11 @@
       "Id": "names",
       "Name": "Names wordlist \u002B10K",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Usernames/Names/names.txt",
-      "Hash": "Q8rKpdBBSBP1+qeMnVi//gkIi3y10ahXx/qulVU98nM=",
+      "Hash": "sh7OrnQP55kN1F2NNa8GATnLXGlhB1TJLI2dEPF3Gu8=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 10713,
-      "Words": 10118,
-      "Size": 75127
+      "Lines": 215,
+      "Size": 28514
     },
     {
       "Id": "net-zwerg",
@@ -285,44 +279,41 @@
       "Id": "openwall",
       "Name": "openwall.net \u002B3.7M",
       "Uri": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/openwall.net-all.txt",
-      "Hash": "DVS6q9P9fYy61ucYHDp9NIL1scuBObjcOf/AvuDo9yU=",
+      "Hash": "ehJOy14aU0VehczvFEtSXxDiIXElM2PSmW27R/czi7g=",
       "Optimized": true,
-      "Lines": 3721224,
-      "Words": 3642113,
-      "Size": 40999980
+      "Lines": 88381,
+      "Words": 22,
+      "Size": 11346509
     },
     {
       "Id": "passwords-win",
       "Name": "Common Passwords Win 800",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/common_passwords_win.txt",
-      "Hash": "5G703MKe5rOIon5tLv0TE9RyV2p/DaZxBxc21FWMV3w=",
+      "Hash": "GlEs4yfIB97nUbirB14gbLI/LyHnRtigkpbUKgLbGns=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 815,
-      "Words": 773,
-      "Size": 5765
+      "Lines": 17,
+      "Size": 2770
     },
     {
       "Id": "probable-v2-12k",
       "Name": "Probable v2 \u002B12K",
       "Uri": "https://raw.githubusercontent.com/danielmiessler/SecLists/751690ecf50ad191197af8d5cd1db03096bff1ec/Passwords/probable-v2-top12000.txt",
-      "Hash": "6kyQbrsLJnkMVJoEeWJXP3LMwm9CISuD1wFl2cA/tys=",
+      "Hash": "ffZWnTJvbRdcaCtIC65wE8DqUzBaKbbx/bh7BA8p3sk=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 12645,
-      "Words": 12549,
-      "Size": 100206
+      "Lines": 351,
+      "Size": 50235
     },
     {
       "Id": "probable-wpa",
       "Name": "Probable WPA \u002B4K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/probable_wpa.txt",
-      "Hash": "QnQZPq9wV/VAzARlpXNd5d2B6tmds0/nvbFOp9kTZJE=",
+      "Hash": "3nlkMiY9J7h7tArDLsGtSzvIOh4Ed150qsJHM0jwEDE=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 4800,
-      "Words": 4800,
-      "Size": 45275
+      "Lines": 201,
+      "Size": 19015
     },
     {
       "Id": "psbdmp",
@@ -360,12 +351,11 @@
       "Id": "service-pass",
       "Name": "Default Passwords For Services \u002B1K",
       "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/default_passwords_for_services.txt",
-      "Hash": "fynrhX5padR6fki4oYTe/f65tA0RcfzFwXZRhsvbZFM=",
+      "Hash": "LWyn1JKnuzJDP9pU0S/t3XlkK7hpSUZ4yPD4AaTWkLE=",
       "Enforced": true,
       "Optimized": true,
-      "Lines": 1243,
-      "Words": 1120,
-      "Size": 9321
+      "Lines": 31,
+      "Size": 5203
     },
     {
       "Id": "skullsecurity-comp",
