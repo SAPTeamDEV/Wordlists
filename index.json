@@ -1,6 +1,16 @@
 {
   "Wordlists": [
     {
+      "Id": "000webhost",
+      "Name": "000webhost \u002B700K",
+      "Uri": "https://github.com/kkrypt0nn/wordlists/raw/main/wordlists/passwords/000webhost.txt",
+      "Hash": "Y7zLCnqT1yOh95upYdckubKStkAnjekbTgbj7m41jeo=",
+      "Optimized": true,
+      "Lines": 26530,
+      "Words": 11,
+      "Size": 3593391
+    },
+    {
       "Id": "3m-combo-list",
       "Name": "3M Combo List",
       "Uri": "https://download.weakpass.com/wordlists/1221/3,000,000%20%20combo%20list.txt.gz",
